@@ -5157,3 +5157,10 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2024.12.13-20.24.59:685][474]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10632.954102
 [2024.12.13-20.25.00:686][477]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2024.12.13-20.25.00:686][477]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10633.621094, Update Interval: 337.261261
+[2024.12.13-20.29.33:064][295]LogDerivedDataCache: C:/Users/muham/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.12.13-20.31.12:741][593]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11005.918945
+[2024.12.13-20.31.13:743][596]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.13-20.31.13:743][596]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11006.585938, Update Interval: 310.444641
+[2024.12.13-20.32.15:995][782]LogDirectoryWatcher: Display: A directory notification failed for 'E:/Documents/Unreal Projects/Warehouse_Wreckage_UnrealEngine/Project/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2024.12.13-20.32.15:995][782]LogDirectoryWatcher: Display: A directory notification failed for 'E:/Documents/Unreal Projects/Warehouse_Wreckage_UnrealEngine/Project/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2024.12.13-20.32.15:995][782]LogDirectoryWatcher: Display: A directory notification failed for 'E:/Documents/Unreal Projects/Warehouse_Wreckage_UnrealEngine/Project/Content/Developers/muham/Collections/' because it could not be accessed. Aborting watch request...
