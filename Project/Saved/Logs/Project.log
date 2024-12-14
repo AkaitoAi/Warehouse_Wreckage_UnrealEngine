@@ -2150,3 +2150,58 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2024.12.14-08.36.23:832][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
 [2024.12.14-08.36.23:837][ 50]Cmd: MAP CHECKDEP NOCLEARLOG
 [2024.12.14-08.36.23:837][ 50]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.036ms to complete.
+[2024.12.14-08.36.51:378][609]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.12.14-08.36.51:379][609]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.14-08.36.51:421][609]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.12.14-08.36.55:228][986]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default
+[2024.12.14-08.36.55:229][986]LogChaosDD: Creating Chaos Debug Draw Scene for world World_6
+[2024.12.14-08.37.16:216][303]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.12.14-08.37.16:219][303]LogStreaming: Display: FlushAsyncLoading(696): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.14-08.37.16:229][303]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMap
+[2024.12.14-08.37.16:231][303]LogAssetEditorSubsystem: Opening Asset editor for World /Game/MainMap.MainMap
+[2024.12.14-08.37.16:231][303]Cmd: MAP LOAD FILE="E:/Documents/Unreal Projects/Warehouse_Wreckage_UnrealEngine/Project/Content/MainMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.12.14-08.37.16:276][303]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.12.14-08.37.16:277][303]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.14-08.37.16:291][303]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2024.12.14-08.37.16:291][303]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.14-08.37.16:305][303]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.14-08.37.16:308][303]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.12.14-08.37.16:313][303]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.14-08.37.16:313][303]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.14-08.37.16:331][303]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.12.14-08.37.16:402][303]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.12.14-08.37.16:414][303]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMap'.
+[2024.12.14-08.37.16:414][303]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMap
+[2024.12.14-08.37.16:426][303]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.12.14-08.37.16:444][303]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.12.14-08.37.16:448][303]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.12.14-08.37.16:449][303]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.041ms to complete.
+[2024.12.14-08.37.16:479][303]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.12.14-08.37.16:615][305]LogRenderer: Warning: [VSM] Non-Nanite Marking Job Queue overflow. Performance may be affected. This occurs when many non-nanite meshes cover a large area of the shadow map.
+[2024.12.14-08.37.20:825][719]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/MainMap.MainMap:PersistentLevel.MainMap
+[2024.12.14-08.37.20:825][719]LogChaosDD: Creating Chaos Debug Draw Scene for world World_7
+[2024.12.14-08.37.37:470][235]LogSlate: Window 'MainMap' being destroyed
+[2024.12.14-08.37.37:486][235]LogSlate: Window 'MainMap' being destroyed
+[2024.12.14-08.37.37:514][235]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.12.14-08.37.37:514][235]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.14-08.37.37:565][235]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.12.14-08.37.53:088][317]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.12.14-08.37.59:144][534]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/MainMap.MainMap:PersistentLevel.MainMap
+[2024.12.14-08.37.59:144][534]LogChaosDD: Creating Chaos Debug Draw Scene for world World_8
+[2024.12.14-08.38.04:406][917]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.14-08.38.04:467][917]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMap" FILE="E:/Documents/Unreal Projects/Warehouse_Wreckage_UnrealEngine/Project/Content/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.12.14-08.38.06:458][917]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2024.12.14-08.38.06:491][917]LogSavePackage: Moving output files for package: /Game/MainMap
+[2024.12.14-08.38.06:492][917]LogSavePackage: Moving 'E:/Documents/Unreal Projects/Warehouse_Wreckage_UnrealEngine/Project/Saved/MainMap616E84C841A26FE85C9209A9B0433983.tmp' to 'E:/Documents/Unreal Projects/Warehouse_Wreckage_UnrealEngine/Project/Content/MainMap.umap'
+[2024.12.14-08.38.06:497][917]LogFileHelpers: Saving map 'MainMap' took 2.030
+[2024.12.14-08.38.06:504][917]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.09 sec (total: 6.71 sec)
+[2024.12.14-08.38.06:567][917]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.14-08.38.06:568][917]LogContentValidation: Enabled validators:
+[2024.12.14-08.38.06:568][917]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.14-08.38.06:568][917]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.14-08.38.06:568][917]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.14-08.38.06:568][917]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.14-08.38.06:568][917]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.14-08.38.06:568][917]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.14-08.38.06:568][917]AssetCheck: /Game/MainMap Validating asset
+[2024.12.14-08.38.15:398][174]LogSlate: Window 'MainMap' being destroyed
