@@ -3618,3 +3618,425 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2024.12.15-14.19.46:006][147]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2024.12.15-14.19.46:006][147]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2024.12.15-14.19.46:006][147]AssetCheck: /Game/MainMap Validating asset
+[2024.12.15-14.21.44:841][874]LogChaosDD: Creating Chaos Debug Draw Scene for world World_4
+[2024.12.15-14.21.48:723][244]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_Projectile.BP_Projectile
+[2024.12.15-14.21.48:723][244]LogChaosDD: Creating Chaos Debug Draw Scene for world World_5
+[2024.12.15-14.21.48:768][244]LogStreaming: Display: FlushAsyncLoading(534): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.15-14.21.51:736][499]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.12.15-14.21.51:736][499]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.15-14.21.51:759][499]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_Projectile.BP_Projectile
+[2024.12.15-14.21.51:759][499]LogChaosDD: Creating Chaos Debug Draw Scene for world World_6
+[2024.12.15-14.21.52:047][499]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.12.15-14.25.02:753][621]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.15-14.25.02:808][621]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMap" FILE="E:/Documents/Unreal Projects/Warehouse_Wreckage_UnrealEngine/Project/Content/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.12.15-14.25.02:841][621]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2024.12.15-14.25.02:890][621]LogSavePackage: Moving output files for package: /Game/MainMap
+[2024.12.15-14.25.02:890][621]LogSavePackage: Moving 'E:/Documents/Unreal Projects/Warehouse_Wreckage_UnrealEngine/Project/Saved/MainMapA34B99B84ADFA2542578BC99C4AA3369.tmp' to 'E:/Documents/Unreal Projects/Warehouse_Wreckage_UnrealEngine/Project/Content/MainMap.umap'
+[2024.12.15-14.25.02:897][621]LogFileHelpers: Saving map 'MainMap' took 0.088
+[2024.12.15-14.25.02:902][621]LogFileHelpers: InternalPromptForCheckoutAndSave took 149.164 ms (total: 15.5 sec)
+[2024.12.15-14.25.02:941][621]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.15-14.25.02:941][621]LogContentValidation: Enabled validators:
+[2024.12.15-14.25.02:941][621]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.15-14.25.02:941][621]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.15-14.25.02:941][621]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.15-14.25.02:941][621]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.15-14.25.02:941][621]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.15-14.25.02:941][621]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.15-14.25.02:941][621]AssetCheck: /Game/MainMap Validating asset
+[2024.12.15-14.25.07:004][102]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.15-14.25.07:059][102]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP_Projectile] ([2] browsable assets)...
+[2024.12.15-14.25.07:133][102]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_Projectile.BP_Projectile]
+[2024.12.15-14.25.07:133][102]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Projectile]
+[2024.12.15-14.25.07:133][102]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Projectile" FILE="E:/Documents/Unreal Projects/Warehouse_Wreckage_UnrealEngine/Project/Content/BP_Projectile.uasset" SILENT=true
+[2024.12.15-14.25.08:726][102]LogSavePackage: Moving output files for package: /Game/BP_Projectile
+[2024.12.15-14.25.08:727][102]LogSavePackage: Moving 'E:/Documents/Unreal Projects/Warehouse_Wreckage_UnrealEngine/Project/Saved/BP_ProjectileF057E38C4868734B7052309286D7042D.tmp' to 'E:/Documents/Unreal Projects/Warehouse_Wreckage_UnrealEngine/Project/Content/BP_Projectile.uasset'
+[2024.12.15-14.25.08:941][102]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.93 sec (total: 17.4 sec)
+[2024.12.15-14.25.08:990][102]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.15-14.25.08:990][102]LogContentValidation: Enabled validators:
+[2024.12.15-14.25.08:990][102]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.15-14.25.08:990][102]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.15-14.25.08:990][102]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.15-14.25.08:990][102]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.15-14.25.08:990][102]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.15-14.25.08:990][102]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.15-14.25.08:990][102]AssetCheck: /Game/BP_Projectile Validating asset
+[2024.12.15-14.25.16:743][ 20]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5493.066895
+[2024.12.15-14.25.17:002][ 51]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.15-14.25.17:002][ 51]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5493.316406, Update Interval: 355.764648
+[2024.12.15-14.26.01:305][913]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.15-14.26.01:358][913]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP_Projectile] ([2] browsable assets)...
+[2024.12.15-14.26.01:426][913]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_Projectile.BP_Projectile]
+[2024.12.15-14.26.01:426][913]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Projectile]
+[2024.12.15-14.26.01:426][913]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Projectile" FILE="E:/Documents/Unreal Projects/Warehouse_Wreckage_UnrealEngine/Project/Content/BP_Projectile.uasset" SILENT=true
+[2024.12.15-14.26.01:429][913]LogSavePackage: Moving output files for package: /Game/BP_Projectile
+[2024.12.15-14.26.01:429][913]LogSavePackage: Moving 'E:/Documents/Unreal Projects/Warehouse_Wreckage_UnrealEngine/Project/Saved/BP_ProjectileA861CA514EE77617C8EF589CD529030D.tmp' to 'E:/Documents/Unreal Projects/Warehouse_Wreckage_UnrealEngine/Project/Content/BP_Projectile.uasset'
+[2024.12.15-14.26.01:435][913]LogFileHelpers: InternalPromptForCheckoutAndSave took 131.168 ms (total: 17.6 sec)
+[2024.12.15-14.26.01:491][913]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.15-14.26.01:491][913]LogContentValidation: Enabled validators:
+[2024.12.15-14.26.01:491][913]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.15-14.26.01:491][913]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.15-14.26.01:491][913]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.15-14.26.01:491][913]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.15-14.26.01:491][913]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.15-14.26.01:491][913]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.15-14.26.01:491][913]AssetCheck: /Game/BP_Projectile Validating asset
+[2024.12.15-14.28.05:757][802]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.15-14.28.05:771][802]LogPlayLevel: [PlayLevel] Compiling BP_Projectile before play...
+[2024.12.15-14.28.05:813][802]LogPlayLevel: [PlayLevel] Compiling MainMap before play...
+[2024.12.15-14.28.05:855][802]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.12.15-14.28.05:858][802]LogPlayLevel: PlayLevel: Blueprint regeneration took 95 ms (2 blueprints)
+[2024.12.15-14.28.05:858][802]LogPlayLevel: Display: Creating online subsystem for client :Context_28
+[2024.12.15-14.28.05:860][802]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2024.12.15-14.28.05:875][803]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMap
+[2024.12.15-14.28.05:893][803]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017414s)
+[2024.12.15-14.28.05:893][803]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMap.MainMap to /Game/UEDPIE_0_MainMap.MainMap (0.017454s)
+[2024.12.15-14.28.05:911][803]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.12.15-14.28.05:912][803]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMap
+[2024.12.15-14.28.05:913][803]LogPlayLevel: PIE: World Init took: (0.001391s)
+[2024.12.15-14.28.05:914][803]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2024.12.15-14.28.05:914][803]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.15-14.28.05:914][803]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.15-14.28.05:914][803]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.15-14.28.05:914][803]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.15-14.28.05:914][803]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.15-14.28.05:914][803]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.15-14.28.05:914][803]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.15-14.28.05:914][803]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.15-14.28.05:914][803]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.15-14.28.05:914][803]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.15-14.28.05:914][803]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.15-14.28.05:917][803]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.15-14.28.05:935][803]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2024.12.15-14.28.05:935][803]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.15-14.28.05:935][803]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.15-14.28.05:935][803]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.15-14.28.05:936][803]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2024.12.15-14.28.05:936][803]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2024.12.15-14.28.05:938][803]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2024.12.15-14.28.05:938][803]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2024.12.15-14.28.05:938][803]LogInit: FAudioDevice initialized with ID 22.
+[2024.12.15-14.28.05:938][803]LogAudio: Display: Audio Device (ID: 22) registered with world 'MainMap'.
+[2024.12.15-14.28.05:938][803]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2024.12.15-14.28.05:941][803]LogLoad: Game class is 'GameModeBase'
+[2024.12.15-14.28.05:947][803]LogWorld: Bringing World /Game/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2024.12.15-19.28.05
+[2024.12.15-14.28.05:948][803]LogWorld: Bringing up level for play took: 0.006928
+[2024.12.15-14.28.05:949][803]LogBlueprintUserMessages: [MainMap_C_22] 20
+[2024.12.15-14.28.05:950][803]PIE: Server logged in
+[2024.12.15-14.28.05:950][803]PIE: Play in editor total start time 0.189 seconds.
+[2024.12.15-14.28.06:099][806]LogRenderer: Warning: [VSM] Non-Nanite Marking Job Queue overflow. Performance may be affected. This occurs when many non-nanite meshes cover a large area of the shadow map.
+[2024.12.15-14.28.07:886][ 18]LogBlueprintUserMessages: [BP_Projectile_C_0] BP_Projectile0
+[2024.12.15-14.28.07:886][ 18]LogBlueprintUserMessages: [MainMap_C_22] 19
+[2024.12.15-14.28.08:133][ 48]LogBlueprintUserMessages: [BP_Projectile_C_1] BP_Projectile1
+[2024.12.15-14.28.08:134][ 48]LogBlueprintUserMessages: [MainMap_C_22] 18
+[2024.12.15-14.28.08:325][ 71]LogBlueprintUserMessages: [BP_Projectile_C_2] BP_Projectile2
+[2024.12.15-14.28.08:326][ 71]LogBlueprintUserMessages: [MainMap_C_22] 17
+[2024.12.15-14.28.08:541][ 97]LogBlueprintUserMessages: [BP_Projectile_C_3] BP_Projectile3
+[2024.12.15-14.28.08:541][ 97]LogBlueprintUserMessages: [MainMap_C_22] 16
+[2024.12.15-14.28.08:759][123]LogBlueprintUserMessages: [BP_Projectile_C_4] BP_Projectile4
+[2024.12.15-14.28.08:759][123]LogBlueprintUserMessages: [MainMap_C_22] 15
+[2024.12.15-14.28.08:959][147]LogBlueprintUserMessages: [BP_Projectile_C_5] BP_Projectile5
+[2024.12.15-14.28.08:959][147]LogBlueprintUserMessages: [MainMap_C_22] 14
+[2024.12.15-14.28.09:143][169]LogBlueprintUserMessages: [BP_Projectile_C_6] BP_Projectile6
+[2024.12.15-14.28.09:143][169]LogBlueprintUserMessages: [MainMap_C_22] 13
+[2024.12.15-14.28.09:343][193]LogBlueprintUserMessages: [BP_Projectile_C_7] BP_Projectile7
+[2024.12.15-14.28.09:343][193]LogBlueprintUserMessages: [MainMap_C_22] 12
+[2024.12.15-14.28.09:537][216]LogBlueprintUserMessages: [BP_Projectile_C_8] BP_Projectile8
+[2024.12.15-14.28.09:537][216]LogBlueprintUserMessages: [MainMap_C_22] 11
+[2024.12.15-14.28.09:736][240]LogBlueprintUserMessages: [BP_Projectile_C_9] BP_Projectile9
+[2024.12.15-14.28.09:736][240]LogBlueprintUserMessages: [MainMap_C_22] 10
+[2024.12.15-14.28.09:939][264]LogBlueprintUserMessages: [BP_Projectile_C_10] BP_Projectile10
+[2024.12.15-14.28.09:939][264]LogBlueprintUserMessages: [MainMap_C_22] 9
+[2024.12.15-14.28.10:148][289]LogBlueprintUserMessages: [BP_Projectile_C_11] BP_Projectile11
+[2024.12.15-14.28.10:149][289]LogBlueprintUserMessages: [MainMap_C_22] 8
+[2024.12.15-14.28.10:333][311]LogBlueprintUserMessages: [BP_Projectile_C_12] BP_Projectile12
+[2024.12.15-14.28.10:333][311]LogBlueprintUserMessages: [MainMap_C_22] 7
+[2024.12.15-14.28.10:550][337]LogBlueprintUserMessages: [BP_Projectile_C_13] BP_Projectile13
+[2024.12.15-14.28.10:550][337]LogBlueprintUserMessages: [MainMap_C_22] 6
+[2024.12.15-14.28.10:743][360]LogBlueprintUserMessages: [BP_Projectile_C_14] BP_Projectile14
+[2024.12.15-14.28.10:743][360]LogBlueprintUserMessages: [MainMap_C_22] 5
+[2024.12.15-14.28.10:977][388]LogBlueprintUserMessages: [BP_Projectile_C_15] BP_Projectile15
+[2024.12.15-14.28.10:977][388]LogBlueprintUserMessages: [MainMap_C_22] 4
+[2024.12.15-14.28.11:186][413]LogBlueprintUserMessages: [BP_Projectile_C_16] BP_Projectile16
+[2024.12.15-14.28.11:186][413]LogBlueprintUserMessages: [MainMap_C_22] 3
+[2024.12.15-14.28.11:420][441]LogBlueprintUserMessages: [BP_Projectile_C_17] BP_Projectile17
+[2024.12.15-14.28.11:420][441]LogBlueprintUserMessages: [MainMap_C_22] 2
+[2024.12.15-14.28.11:637][467]LogBlueprintUserMessages: [BP_Projectile_C_18] BP_Projectile18
+[2024.12.15-14.28.11:637][467]LogBlueprintUserMessages: [MainMap_C_22] 1
+[2024.12.15-14.28.11:854][493]LogBlueprintUserMessages: [BP_Projectile_C_19] BP_Projectile19
+[2024.12.15-14.28.11:854][493]LogBlueprintUserMessages: [MainMap_C_22] 0
+[2024.12.15-14.28.12:095][522]LogBlueprintUserMessages: [MainMap_C_22] OUT OF AMMO!
+[2024.12.15-14.28.12:279][544]LogBlueprintUserMessages: [MainMap_C_22] OUT OF AMMO!
+[2024.12.15-14.28.12:804][607]LogBlueprintUserMessages: [MainMap_C_22] OUT OF AMMO!
+[2024.12.15-14.28.13:046][636]LogBlueprintUserMessages: [MainMap_C_22] OUT OF AMMO!
+[2024.12.15-14.28.13:280][664]LogBlueprintUserMessages: [MainMap_C_22] OUT OF AMMO!
+[2024.12.15-14.28.13:471][687]LogBlueprintUserMessages: [MainMap_C_22] OUT OF AMMO!
+[2024.12.15-14.28.13:914][737]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.15-14.28.13:914][737]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMap
+[2024.12.15-14.28.13:914][737]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.15-14.28.13:916][737]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.15-14.28.13:919][737]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.15-14.28.13:924][737]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.15-14.28.13:941][737]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.15-14.28.13:942][737]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2024.12.15-14.28.13:942][737]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2024.12.15-14.28.13:944][737]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2024.12.15-14.28.13:952][737]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.12.15-14.28.15:890][738]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2024.12.15-14.29.26:591][854]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.15-14.29.26:643][854]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP_Projectile] ([2] browsable assets)...
+[2024.12.15-14.29.26:710][854]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_Projectile.BP_Projectile]
+[2024.12.15-14.29.26:710][854]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Projectile]
+[2024.12.15-14.29.26:710][854]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Projectile" FILE="E:/Documents/Unreal Projects/Warehouse_Wreckage_UnrealEngine/Project/Content/BP_Projectile.uasset" SILENT=true
+[2024.12.15-14.29.26:714][854]LogSavePackage: Moving output files for package: /Game/BP_Projectile
+[2024.12.15-14.29.26:714][854]LogSavePackage: Moving 'E:/Documents/Unreal Projects/Warehouse_Wreckage_UnrealEngine/Project/Saved/BP_ProjectileD73A03524C90B3800D26BEBDFDE46937.tmp' to 'E:/Documents/Unreal Projects/Warehouse_Wreckage_UnrealEngine/Project/Content/BP_Projectile.uasset'
+[2024.12.15-14.29.26:722][854]LogFileHelpers: InternalPromptForCheckoutAndSave took 130.054 ms (total: 17.7 sec)
+[2024.12.15-14.29.26:775][854]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.15-14.29.26:775][854]LogContentValidation: Enabled validators:
+[2024.12.15-14.29.26:775][854]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.15-14.29.26:775][854]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.15-14.29.26:775][854]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.15-14.29.26:775][854]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.15-14.29.26:775][854]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.15-14.29.26:775][854]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.15-14.29.26:775][854]AssetCheck: /Game/BP_Projectile Validating asset
+[2024.12.15-14.29.41:003][523]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.15-14.29.41:060][523]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMap" FILE="E:/Documents/Unreal Projects/Warehouse_Wreckage_UnrealEngine/Project/Content/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.12.15-14.29.41:092][523]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.12.15-14.29.41:139][523]LogSavePackage: Moving output files for package: /Game/MainMap
+[2024.12.15-14.29.41:139][523]LogSavePackage: Moving 'E:/Documents/Unreal Projects/Warehouse_Wreckage_UnrealEngine/Project/Saved/MainMap51B02F81440707444E4AEF8CECDDCCE7.tmp' to 'E:/Documents/Unreal Projects/Warehouse_Wreckage_UnrealEngine/Project/Content/MainMap.umap'
+[2024.12.15-14.29.41:145][523]LogFileHelpers: Saving map 'MainMap' took 0.085
+[2024.12.15-14.29.41:152][523]LogFileHelpers: InternalPromptForCheckoutAndSave took 149.175 ms (total: 17.9 sec)
+[2024.12.15-14.29.41:208][523]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.15-14.29.41:208][523]LogContentValidation: Enabled validators:
+[2024.12.15-14.29.41:208][523]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.15-14.29.41:208][523]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.15-14.29.41:208][523]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.15-14.29.41:208][523]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.15-14.29.41:208][523]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.15-14.29.41:208][523]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.15-14.29.41:208][523]AssetCheck: /Game/MainMap Validating asset
+[2024.12.15-14.29.53:570][895]LogEditorTransaction: Undo Move Nodes
+[2024.12.15-14.29.54:036][902]LogEditorTransaction: Undo Add Node
+[2024.12.15-14.29.54:596][954]LogEditorTransaction: Undo Delete current selection
+[2024.12.15-14.30.12:558][949]LogEditorTransaction: Undo Move Node
+[2024.12.15-14.30.12:902][955]LogEditorTransaction: Undo Move Node
+[2024.12.15-14.30.13:296][981]LogEditorTransaction: Undo Delete current selection
+[2024.12.15-14.30.20:930][852]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.12.15-14.30.22:494][ 27]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.15-14.30.22:543][ 27]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP_Projectile] ([2] browsable assets)...
+[2024.12.15-14.30.22:610][ 27]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_Projectile.BP_Projectile]
+[2024.12.15-14.30.22:610][ 27]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Projectile]
+[2024.12.15-14.30.22:610][ 27]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Projectile" FILE="E:/Documents/Unreal Projects/Warehouse_Wreckage_UnrealEngine/Project/Content/BP_Projectile.uasset" SILENT=true
+[2024.12.15-14.30.22:615][ 27]LogSavePackage: Moving output files for package: /Game/BP_Projectile
+[2024.12.15-14.30.22:616][ 27]LogSavePackage: Moving 'E:/Documents/Unreal Projects/Warehouse_Wreckage_UnrealEngine/Project/Saved/BP_Projectile36F0BB2C4AA97F8C427E9197C124D43F.tmp' to 'E:/Documents/Unreal Projects/Warehouse_Wreckage_UnrealEngine/Project/Content/BP_Projectile.uasset'
+[2024.12.15-14.30.22:622][ 27]LogFileHelpers: InternalPromptForCheckoutAndSave took 127.212 ms (total: 18.0 sec)
+[2024.12.15-14.30.22:674][ 27]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.15-14.30.22:674][ 27]LogContentValidation: Enabled validators:
+[2024.12.15-14.30.22:674][ 27]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.15-14.30.22:674][ 27]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.15-14.30.22:674][ 27]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.15-14.30.22:674][ 27]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.15-14.30.22:674][ 27]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.15-14.30.22:674][ 27]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.15-14.30.22:674][ 27]AssetCheck: /Game/BP_Projectile Validating asset
+[2024.12.15-14.30.55:502][612]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.15-14.30.55:560][612]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMap" FILE="E:/Documents/Unreal Projects/Warehouse_Wreckage_UnrealEngine/Project/Content/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.12.15-14.30.56:554][612]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.12.15-14.30.56:611][612]LogSavePackage: Moving output files for package: /Game/MainMap
+[2024.12.15-14.30.56:611][612]LogSavePackage: Moving 'E:/Documents/Unreal Projects/Warehouse_Wreckage_UnrealEngine/Project/Saved/MainMap0BFF53AA4A7EEC51BD59E393E65F34D6.tmp' to 'E:/Documents/Unreal Projects/Warehouse_Wreckage_UnrealEngine/Project/Content/MainMap.umap'
+[2024.12.15-14.30.56:616][612]LogFileHelpers: Saving map 'MainMap' took 1.057
+[2024.12.15-14.30.56:621][612]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.12 sec (total: 19.1 sec)
+[2024.12.15-14.30.56:659][612]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.15-14.30.56:659][612]LogContentValidation: Enabled validators:
+[2024.12.15-14.30.56:659][612]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.15-14.30.56:659][612]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.15-14.30.56:659][612]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.15-14.30.56:659][612]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.15-14.30.56:659][612]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.15-14.30.56:659][612]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.15-14.30.56:659][612]AssetCheck: /Game/MainMap Validating asset
+[2024.12.15-14.31.03:845][463]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.15-14.31.03:893][463]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP_Projectile] ([2] browsable assets)...
+[2024.12.15-14.31.03:893][463]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Projectile]
+[2024.12.15-14.31.03:893][463]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Projectile" FILE="E:/Documents/Unreal Projects/Warehouse_Wreckage_UnrealEngine/Project/Content/BP_Projectile.uasset" SILENT=true
+[2024.12.15-14.31.03:897][463]LogSavePackage: Moving output files for package: /Game/BP_Projectile
+[2024.12.15-14.31.03:898][463]LogSavePackage: Moving 'E:/Documents/Unreal Projects/Warehouse_Wreckage_UnrealEngine/Project/Saved/BP_ProjectileFAF76A054DBD9E87D645479A2655FE6C.tmp' to 'E:/Documents/Unreal Projects/Warehouse_Wreckage_UnrealEngine/Project/Content/BP_Projectile.uasset'
+[2024.12.15-14.31.03:905][463]LogFileHelpers: InternalPromptForCheckoutAndSave took 59.454 ms (total: 19.2 sec)
+[2024.12.15-14.31.03:956][463]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.15-14.31.03:956][463]LogContentValidation: Enabled validators:
+[2024.12.15-14.31.03:956][463]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.15-14.31.03:956][463]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.15-14.31.03:956][463]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.15-14.31.03:956][463]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.15-14.31.03:956][463]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.15-14.31.03:956][463]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.15-14.31.03:956][463]AssetCheck: /Game/BP_Projectile Validating asset
+[2024.12.15-14.31.18:668][ 55]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.15-14.31.18:725][ 55]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP_Projectile] ([2] browsable assets)...
+[2024.12.15-14.31.18:788][ 55]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_Projectile.BP_Projectile]
+[2024.12.15-14.31.18:788][ 55]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Projectile]
+[2024.12.15-14.31.18:788][ 55]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Projectile" FILE="E:/Documents/Unreal Projects/Warehouse_Wreckage_UnrealEngine/Project/Content/BP_Projectile.uasset" SILENT=true
+[2024.12.15-14.31.18:793][ 55]LogSavePackage: Moving output files for package: /Game/BP_Projectile
+[2024.12.15-14.31.18:794][ 55]LogSavePackage: Moving 'E:/Documents/Unreal Projects/Warehouse_Wreckage_UnrealEngine/Project/Saved/BP_Projectile5D8E60FE4DCDBD6E2FAF9AAB6FDF8624.tmp' to 'E:/Documents/Unreal Projects/Warehouse_Wreckage_UnrealEngine/Project/Content/BP_Projectile.uasset'
+[2024.12.15-14.31.18:800][ 55]LogFileHelpers: InternalPromptForCheckoutAndSave took 131.444 ms (total: 19.3 sec)
+[2024.12.15-14.31.18:857][ 55]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.15-14.31.18:857][ 55]LogContentValidation: Enabled validators:
+[2024.12.15-14.31.18:857][ 55]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.15-14.31.18:857][ 55]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.15-14.31.18:857][ 55]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.15-14.31.18:857][ 55]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.15-14.31.18:857][ 55]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.15-14.31.18:857][ 55]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.15-14.31.18:857][ 55]AssetCheck: /Game/BP_Projectile Validating asset
+[2024.12.15-14.31.22:577][498]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.15-14.31.22:609][498]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP_Projectile] ([2] browsable assets)...
+[2024.12.15-14.31.22:609][498]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Projectile]
+[2024.12.15-14.31.22:609][498]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Projectile" FILE="E:/Documents/Unreal Projects/Warehouse_Wreckage_UnrealEngine/Project/Content/BP_Projectile.uasset" SILENT=true
+[2024.12.15-14.31.22:613][498]LogSavePackage: Moving output files for package: /Game/BP_Projectile
+[2024.12.15-14.31.22:613][498]LogSavePackage: Moving 'E:/Documents/Unreal Projects/Warehouse_Wreckage_UnrealEngine/Project/Saved/BP_Projectile398761974DA9DE0AB7F4E7866AD0B117.tmp' to 'E:/Documents/Unreal Projects/Warehouse_Wreckage_UnrealEngine/Project/Content/BP_Projectile.uasset'
+[2024.12.15-14.31.22:620][498]LogFileHelpers: InternalPromptForCheckoutAndSave took 43.045 ms (total: 19.3 sec)
+[2024.12.15-14.31.22:674][498]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.15-14.31.22:674][498]LogContentValidation: Enabled validators:
+[2024.12.15-14.31.22:674][498]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.15-14.31.22:674][498]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.15-14.31.22:674][498]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.15-14.31.22:674][498]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.15-14.31.22:674][498]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.15-14.31.22:674][498]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.15-14.31.22:674][498]AssetCheck: /Game/BP_Projectile Validating asset
+[2024.12.15-14.31.26:382][917]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.12.15-14.31.28:105][107]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.12.15-14.31.28:828][190]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.15-14.31.28:859][190]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMap" FILE="E:/Documents/Unreal Projects/Warehouse_Wreckage_UnrealEngine/Project/Content/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.12.15-14.31.28:890][190]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.12.15-14.31.28:936][190]LogSavePackage: Moving output files for package: /Game/MainMap
+[2024.12.15-14.31.28:936][190]LogSavePackage: Moving 'E:/Documents/Unreal Projects/Warehouse_Wreckage_UnrealEngine/Project/Saved/MainMapB7CD386F4F34FFFAEDECF3A3640CC059.tmp' to 'E:/Documents/Unreal Projects/Warehouse_Wreckage_UnrealEngine/Project/Content/MainMap.umap'
+[2024.12.15-14.31.28:942][190]LogFileHelpers: Saving map 'MainMap' took 0.083
+[2024.12.15-14.31.28:949][190]LogFileHelpers: InternalPromptForCheckoutAndSave took 120.349 ms (total: 19.5 sec)
+[2024.12.15-14.31.29:007][190]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.15-14.31.29:007][190]LogContentValidation: Enabled validators:
+[2024.12.15-14.31.29:008][190]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.15-14.31.29:008][190]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.15-14.31.29:008][190]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.15-14.31.29:008][190]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.15-14.31.29:008][190]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.15-14.31.29:008][190]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.15-14.31.29:008][190]AssetCheck: /Game/MainMap Validating asset
+[2024.12.15-14.31.30:753][387]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.15-14.31.31:723][387]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.15-14.31.31:764][387]LogPlayLevel: Display: Creating online subsystem for client :Context_29
+[2024.12.15-14.31.31:765][387]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2024.12.15-14.31.31:808][388]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMap
+[2024.12.15-14.31.31:826][388]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017374s)
+[2024.12.15-14.31.31:826][388]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMap.MainMap to /Game/UEDPIE_0_MainMap.MainMap (0.017411s)
+[2024.12.15-14.31.31:844][388]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.12.15-14.31.31:848][388]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMap
+[2024.12.15-14.31.31:849][388]LogPlayLevel: PIE: World Init took: (0.001372s)
+[2024.12.15-14.31.31:850][388]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2024.12.15-14.31.31:850][388]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.15-14.31.31:850][388]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.15-14.31.31:850][388]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.15-14.31.31:850][388]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.15-14.31.31:850][388]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.15-14.31.31:850][388]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.15-14.31.31:850][388]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.15-14.31.31:850][388]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.15-14.31.31:850][388]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.15-14.31.31:850][388]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.15-14.31.31:850][388]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.15-14.31.31:852][388]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.15-14.31.31:869][388]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2024.12.15-14.31.31:869][388]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.15-14.31.31:869][388]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.15-14.31.31:869][388]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.15-14.31.31:870][388]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2024.12.15-14.31.31:870][388]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2024.12.15-14.31.31:871][388]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2024.12.15-14.31.31:871][388]LogInit: FAudioDevice initialized with ID 23.
+[2024.12.15-14.31.31:871][388]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2024.12.15-14.31.31:871][388]LogAudio: Display: Audio Device (ID: 23) registered with world 'MainMap'.
+[2024.12.15-14.31.31:871][388]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2024.12.15-14.31.31:875][388]LogLoad: Game class is 'GameModeBase'
+[2024.12.15-14.31.31:881][388]LogWorld: Bringing World /Game/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2024.12.15-19.31.31
+[2024.12.15-14.31.31:882][388]LogWorld: Bringing up level for play took: 0.007049
+[2024.12.15-14.31.31:883][388]LogBlueprintUserMessages: [MainMap_C_23] 20
+[2024.12.15-14.31.31:884][388]PIE: Server logged in
+[2024.12.15-14.31.31:885][388]PIE: Play in editor total start time 0.161 seconds.
+[2024.12.15-14.31.32:040][391]LogRenderer: Warning: [VSM] Non-Nanite Marking Job Queue overflow. Performance may be affected. This occurs when many non-nanite meshes cover a large area of the shadow map.
+[2024.12.15-14.31.33:140][522]LogBlueprintUserMessages: [BP_Projectile_C_0] BP_Projectile0
+[2024.12.15-14.31.33:140][522]LogBlueprintUserMessages: [MainMap_C_23] 19
+[2024.12.15-14.31.33:399][553]LogBlueprintUserMessages: [BP_Projectile_C_1] BP_Projectile1
+[2024.12.15-14.31.33:399][553]LogBlueprintUserMessages: [MainMap_C_23] 18
+[2024.12.15-14.31.33:624][580]LogBlueprintUserMessages: [BP_Projectile_C_2] BP_Projectile2
+[2024.12.15-14.31.33:624][580]LogBlueprintUserMessages: [MainMap_C_23] 17
+[2024.12.15-14.31.33:799][601]LogBlueprintUserMessages: [BP_Projectile_C_3] BP_Projectile3
+[2024.12.15-14.31.33:799][601]LogBlueprintUserMessages: [MainMap_C_23] 16
+[2024.12.15-14.31.33:949][619]LogBlueprintUserMessages: [BP_Projectile_C_4] BP_Projectile4
+[2024.12.15-14.31.33:949][619]LogBlueprintUserMessages: [MainMap_C_23] 15
+[2024.12.15-14.31.34:140][642]LogBlueprintUserMessages: [BP_Projectile_C_5] BP_Projectile5
+[2024.12.15-14.31.34:140][642]LogBlueprintUserMessages: [MainMap_C_23] 14
+[2024.12.15-14.31.34:307][662]LogBlueprintUserMessages: [BP_Projectile_C_6] BP_Projectile6
+[2024.12.15-14.31.34:307][662]LogBlueprintUserMessages: [MainMap_C_23] 13
+[2024.12.15-14.31.34:482][683]LogBlueprintUserMessages: [BP_Projectile_C_7] BP_Projectile7
+[2024.12.15-14.31.34:482][683]LogBlueprintUserMessages: [MainMap_C_23] 12
+[2024.12.15-14.31.34:790][720]LogBlueprintUserMessages: [BP_Projectile_C_8] BP_Projectile8
+[2024.12.15-14.31.34:790][720]LogBlueprintUserMessages: [MainMap_C_23] 11
+[2024.12.15-14.31.35:083][755]LogBlueprintUserMessages: [BP_Projectile_C_9] BP_Projectile9
+[2024.12.15-14.31.35:083][755]LogBlueprintUserMessages: [MainMap_C_23] 10
+[2024.12.15-14.31.35:307][782]LogBlueprintUserMessages: [BP_Projectile_C_10] BP_Projectile10
+[2024.12.15-14.31.35:307][782]LogBlueprintUserMessages: [MainMap_C_23] 9
+[2024.12.15-14.31.35:441][798]LogBlueprintUserMessages: [BP_Projectile_C_11] BP_Projectile11
+[2024.12.15-14.31.35:441][798]LogBlueprintUserMessages: [MainMap_C_23] 8
+[2024.12.15-14.31.35:650][823]LogBlueprintUserMessages: [BP_Projectile_C_12] BP_Projectile12
+[2024.12.15-14.31.35:650][823]LogBlueprintUserMessages: [MainMap_C_23] 7
+[2024.12.15-14.31.35:809][842]LogBlueprintUserMessages: [BP_Projectile_C_13] BP_Projectile13
+[2024.12.15-14.31.35:809][842]LogBlueprintUserMessages: [MainMap_C_23] 6
+[2024.12.15-14.31.35:976][862]LogBlueprintUserMessages: [BP_Projectile_C_14] BP_Projectile14
+[2024.12.15-14.31.35:976][862]LogBlueprintUserMessages: [MainMap_C_23] 5
+[2024.12.15-14.31.36:151][883]LogBlueprintUserMessages: [BP_Projectile_C_15] BP_Projectile15
+[2024.12.15-14.31.36:151][883]LogBlueprintUserMessages: [MainMap_C_23] 4
+[2024.12.15-14.31.36:319][903]LogBlueprintUserMessages: [BP_Projectile_C_16] BP_Projectile16
+[2024.12.15-14.31.36:319][903]LogBlueprintUserMessages: [MainMap_C_23] 3
+[2024.12.15-14.31.36:503][925]LogBlueprintUserMessages: [BP_Projectile_C_17] BP_Projectile17
+[2024.12.15-14.31.36:503][925]LogBlueprintUserMessages: [MainMap_C_23] 2
+[2024.12.15-14.31.36:670][945]LogBlueprintUserMessages: [BP_Projectile_C_18] BP_Projectile18
+[2024.12.15-14.31.36:670][945]LogBlueprintUserMessages: [MainMap_C_23] 1
+[2024.12.15-14.31.36:846][966]LogBlueprintUserMessages: [BP_Projectile_C_19] BP_Projectile19
+[2024.12.15-14.31.36:846][966]LogBlueprintUserMessages: [MainMap_C_23] 0
+[2024.12.15-14.31.37:013][986]LogBlueprintUserMessages: [MainMap_C_23] OUT OF AMMO!
+[2024.12.15-14.31.37:188][  7]LogBlueprintUserMessages: [MainMap_C_23] OUT OF AMMO!
+[2024.12.15-14.31.37:390][ 31]LogBlueprintUserMessages: [MainMap_C_23] OUT OF AMMO!
+[2024.12.15-14.31.37:573][ 53]LogBlueprintUserMessages: [MainMap_C_23] OUT OF AMMO!
+[2024.12.15-14.31.37:699][ 68]LogBlueprintUserMessages: [MainMap_C_23] OUT OF AMMO!
+[2024.12.15-14.31.38:164][119]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.15-14.31.38:164][119]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMap
+[2024.12.15-14.31.38:164][119]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.15-14.31.38:167][119]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.15-14.31.38:170][119]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.15-14.31.38:174][119]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.15-14.31.38:191][119]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.15-14.31.38:193][119]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2024.12.15-14.31.38:193][119]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2024.12.15-14.31.38:195][119]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2024.12.15-14.31.38:203][119]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.12.15-14.31.38:278][120]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2024.12.15-14.32.12:563][972]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5908.900391
+[2024.12.15-14.32.12:846][  6]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.15-14.32.12:846][  6]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5909.175781, Update Interval: 349.150665
+[2024.12.15-14.32.58:608][437]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.15-14.32.58:645][437]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP_Projectile] ([2] browsable assets)...
+[2024.12.15-14.32.58:721][437]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_Projectile.BP_Projectile]
+[2024.12.15-14.32.58:721][437]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Projectile]
+[2024.12.15-14.32.58:721][437]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Projectile" FILE="E:/Documents/Unreal Projects/Warehouse_Wreckage_UnrealEngine/Project/Content/BP_Projectile.uasset" SILENT=true
+[2024.12.15-14.32.58:726][437]LogSavePackage: Moving output files for package: /Game/BP_Projectile
+[2024.12.15-14.32.58:727][437]LogSavePackage: Moving 'E:/Documents/Unreal Projects/Warehouse_Wreckage_UnrealEngine/Project/Saved/BP_ProjectileC744CB8344301A131B48AE98B7872FDE.tmp' to 'E:/Documents/Unreal Projects/Warehouse_Wreckage_UnrealEngine/Project/Content/BP_Projectile.uasset'
+[2024.12.15-14.32.58:733][437]LogFileHelpers: InternalPromptForCheckoutAndSave took 125.569 ms (total: 19.6 sec)
+[2024.12.15-14.32.58:791][437]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.15-14.32.58:791][437]LogContentValidation: Enabled validators:
+[2024.12.15-14.32.58:791][437]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.15-14.32.58:791][437]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.15-14.32.58:791][437]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.15-14.32.58:791][437]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.15-14.32.58:791][437]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.15-14.32.58:791][437]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.15-14.32.58:791][437]AssetCheck: /Game/BP_Projectile Validating asset
