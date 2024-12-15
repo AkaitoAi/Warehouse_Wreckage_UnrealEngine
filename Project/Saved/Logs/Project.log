@@ -2545,3 +2545,666 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2024.12.15-13.32.44:680][355]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2024.12.15-13.32.44:681][355]AssetCheck: /Game/MainMap Validating asset
 [2024.12.15-13.32.46:177][528]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.12.15-13.34.36:967][303]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2453.547119
+[2024.12.15-13.34.37:216][333]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.15-13.34.37:216][334]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2453.788574, Update Interval: 341.932434
+[2024.12.15-13.39.28:250][211]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.15-13.39.28:284][211]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMap" FILE="E:/Documents/Unreal Projects/Warehouse_Wreckage_UnrealEngine/Project/Content/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.12.15-13.39.28:313][211]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2024.12.15-13.39.28:359][211]LogSavePackage: Moving output files for package: /Game/MainMap
+[2024.12.15-13.39.28:359][211]LogSavePackage: Moving 'E:/Documents/Unreal Projects/Warehouse_Wreckage_UnrealEngine/Project/Saved/MainMapB7817FB44A66411DFF1AA6A87B45E031.tmp' to 'E:/Documents/Unreal Projects/Warehouse_Wreckage_UnrealEngine/Project/Content/MainMap.umap'
+[2024.12.15-13.39.28:364][211]LogFileHelpers: Saving map 'MainMap' took 0.081
+[2024.12.15-13.39.28:370][211]LogFileHelpers: InternalPromptForCheckoutAndSave took 119.448 ms (total: 7.36 sec)
+[2024.12.15-13.39.28:431][211]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.15-13.39.28:431][211]LogContentValidation: Enabled validators:
+[2024.12.15-13.39.28:431][211]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.15-13.39.28:431][211]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.15-13.39.28:431][211]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.15-13.39.28:431][211]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.15-13.39.28:431][211]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.15-13.39.28:431][211]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.15-13.39.28:431][211]AssetCheck: /Game/MainMap Validating asset
+[2024.12.15-13.39.29:699][355]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.12.15-13.39.30:924][489]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.15-13.39.30:929][489]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.15-13.39.30:953][489]LogPlayLevel: Display: Creating online subsystem for client :Context_17
+[2024.12.15-13.39.30:955][489]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2024.12.15-13.39.30:972][490]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMap
+[2024.12.15-13.39.30:988][490]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016907s)
+[2024.12.15-13.39.30:988][490]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMap.MainMap to /Game/UEDPIE_0_MainMap.MainMap (0.016944s)
+[2024.12.15-13.39.31:006][490]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.12.15-13.39.31:008][490]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMap
+[2024.12.15-13.39.31:009][490]LogPlayLevel: PIE: World Init took: (0.001318s)
+[2024.12.15-13.39.31:010][490]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2024.12.15-13.39.31:010][490]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.15-13.39.31:010][490]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.15-13.39.31:010][490]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.15-13.39.31:010][490]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.15-13.39.31:010][490]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.15-13.39.31:010][490]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.15-13.39.31:010][490]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.15-13.39.31:010][490]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.15-13.39.31:010][490]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.15-13.39.31:010][490]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.15-13.39.31:010][490]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.15-13.39.31:012][490]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.15-13.39.31:030][490]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2024.12.15-13.39.31:030][490]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.15-13.39.31:030][490]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.15-13.39.31:030][490]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.15-13.39.31:031][490]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2024.12.15-13.39.31:031][490]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2024.12.15-13.39.31:033][490]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2024.12.15-13.39.31:033][490]LogInit: FAudioDevice initialized with ID 14.
+[2024.12.15-13.39.31:033][490]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2024.12.15-13.39.31:033][490]LogAudio: Display: Audio Device (ID: 14) registered with world 'MainMap'.
+[2024.12.15-13.39.31:033][490]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2024.12.15-13.39.31:035][490]LogLoad: Game class is 'GameModeBase'
+[2024.12.15-13.39.31:043][490]LogWorld: Bringing World /Game/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2024.12.15-18.39.31
+[2024.12.15-13.39.31:043][490]LogWorld: Bringing up level for play took: 0.006945
+[2024.12.15-13.39.31:044][490]LogBlueprintUserMessages: [MainMap_C_15] 20
+[2024.12.15-13.39.31:045][490]PIE: Server logged in
+[2024.12.15-13.39.31:046][490]PIE: Play in editor total start time 0.117 seconds.
+[2024.12.15-13.39.31:201][493]LogRenderer: Warning: [VSM] Non-Nanite Marking Job Queue overflow. Performance may be affected. This occurs when many non-nanite meshes cover a large area of the shadow map.
+[2024.12.15-13.39.32:062][594]LogBlueprintUserMessages: [MainMap_C_15] 19
+[2024.12.15-13.39.32:252][617]LogBlueprintUserMessages: [MainMap_C_15] 18
+[2024.12.15-13.39.32:502][647]LogBlueprintUserMessages: [MainMap_C_15] 17
+[2024.12.15-13.39.32:693][670]LogBlueprintUserMessages: [MainMap_C_15] 16
+[2024.12.15-13.39.32:918][697]LogBlueprintUserMessages: [MainMap_C_15] 15
+[2024.12.15-13.39.33:092][718]LogBlueprintUserMessages: [MainMap_C_15] 14
+[2024.12.15-13.39.33:301][743]LogBlueprintUserMessages: [MainMap_C_15] 13
+[2024.12.15-13.39.33:511][768]LogBlueprintUserMessages: [MainMap_C_15] 12
+[2024.12.15-13.39.33:719][793]LogBlueprintUserMessages: [MainMap_C_15] 11
+[2024.12.15-13.39.33:902][815]LogBlueprintUserMessages: [MainMap_C_15] 10
+[2024.12.15-13.39.34:069][835]LogBlueprintUserMessages: [MainMap_C_15] 9
+[2024.12.15-13.39.34:252][857]LogBlueprintUserMessages: [MainMap_C_15] 8
+[2024.12.15-13.39.34:436][879]LogBlueprintUserMessages: [MainMap_C_15] 7
+[2024.12.15-13.39.34:636][903]LogBlueprintUserMessages: [MainMap_C_15] 6
+[2024.12.15-13.39.34:819][925]LogBlueprintUserMessages: [MainMap_C_15] 5
+[2024.12.15-13.39.35:028][950]LogBlueprintUserMessages: [MainMap_C_15] 4
+[2024.12.15-13.39.35:211][972]LogBlueprintUserMessages: [MainMap_C_15] 3
+[2024.12.15-13.39.35:394][994]LogBlueprintUserMessages: [MainMap_C_15] 2
+[2024.12.15-13.39.35:878][ 52]LogBlueprintUserMessages: [MainMap_C_15] 1
+[2024.12.15-13.39.36:045][ 72]LogBlueprintUserMessages: [MainMap_C_15] 0
+[2024.12.15-13.39.37:943][296]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.15-13.39.37:943][296]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMap
+[2024.12.15-13.39.37:943][296]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.15-13.39.37:946][296]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.15-13.39.37:950][296]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.15-13.39.37:953][296]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.15-13.39.37:970][296]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.15-13.39.37:971][296]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2024.12.15-13.39.37:971][296]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.12.15-13.39.37:972][296]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.12.15-13.39.37:981][296]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.12.15-13.39.38:707][297]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2024.12.15-13.40.04:126][256]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.15-13.40.04:183][256]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMap" FILE="E:/Documents/Unreal Projects/Warehouse_Wreckage_UnrealEngine/Project/Content/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.12.15-13.40.04:214][256]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.12.15-13.40.04:260][256]LogSavePackage: Moving output files for package: /Game/MainMap
+[2024.12.15-13.40.04:260][256]LogSavePackage: Moving 'E:/Documents/Unreal Projects/Warehouse_Wreckage_UnrealEngine/Project/Saved/MainMap9645144A41CFE0863FECA3ABC5C937EC.tmp' to 'E:/Documents/Unreal Projects/Warehouse_Wreckage_UnrealEngine/Project/Content/MainMap.umap'
+[2024.12.15-13.40.04:265][256]LogFileHelpers: Saving map 'MainMap' took 0.083
+[2024.12.15-13.40.04:272][256]LogFileHelpers: InternalPromptForCheckoutAndSave took 145.518 ms (total: 7.51 sec)
+[2024.12.15-13.40.04:317][256]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.15-13.40.04:317][256]LogContentValidation: Enabled validators:
+[2024.12.15-13.40.04:317][256]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.15-13.40.04:317][256]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.15-13.40.04:317][256]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.15-13.40.04:317][256]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.15-13.40.04:317][256]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.15-13.40.04:317][256]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.15-13.40.04:317][256]AssetCheck: /Game/MainMap Validating asset
+[2024.12.15-13.40.58:611][275]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.15-13.40.58:669][275]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMap" FILE="E:/Documents/Unreal Projects/Warehouse_Wreckage_UnrealEngine/Project/Content/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.12.15-13.40.58:700][275]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.12.15-13.40.58:745][275]LogSavePackage: Moving output files for package: /Game/MainMap
+[2024.12.15-13.40.58:745][275]LogSavePackage: Moving 'E:/Documents/Unreal Projects/Warehouse_Wreckage_UnrealEngine/Project/Saved/MainMap0FDBBB074113C2B192855A96A1FC018B.tmp' to 'E:/Documents/Unreal Projects/Warehouse_Wreckage_UnrealEngine/Project/Content/MainMap.umap'
+[2024.12.15-13.40.58:751][275]LogFileHelpers: Saving map 'MainMap' took 0.082
+[2024.12.15-13.40.58:759][275]LogFileHelpers: InternalPromptForCheckoutAndSave took 148.155 ms (total: 7.66 sec)
+[2024.12.15-13.40.58:814][275]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.15-13.40.58:814][275]LogContentValidation: Enabled validators:
+[2024.12.15-13.40.58:814][275]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.15-13.40.58:814][275]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.15-13.40.58:814][275]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.15-13.40.58:814][275]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.15-13.40.58:814][275]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.15-13.40.58:814][275]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.15-13.40.58:815][275]AssetCheck: /Game/MainMap Validating asset
+[2024.12.15-13.40.58:859][279]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.15-13.40.58:898][279]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMap" FILE="E:/Documents/Unreal Projects/Warehouse_Wreckage_UnrealEngine/Project/Content/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.12.15-13.40.58:928][279]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.12.15-13.40.58:972][279]LogSavePackage: Moving output files for package: /Game/MainMap
+[2024.12.15-13.40.58:972][279]LogSavePackage: Moving 'E:/Documents/Unreal Projects/Warehouse_Wreckage_UnrealEngine/Project/Saved/MainMap8E4775A949514BAD9E5CFD8B0E42C007.tmp' to 'E:/Documents/Unreal Projects/Warehouse_Wreckage_UnrealEngine/Project/Content/MainMap.umap'
+[2024.12.15-13.40.58:978][279]LogFileHelpers: Saving map 'MainMap' took 0.080
+[2024.12.15-13.40.58:983][279]LogFileHelpers: InternalPromptForCheckoutAndSave took 124.423 ms (total: 7.78 sec)
+[2024.12.15-13.40.59:032][279]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.15-13.40.59:032][279]LogContentValidation: Enabled validators:
+[2024.12.15-13.40.59:032][279]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.15-13.40.59:032][279]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.15-13.40.59:032][279]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.15-13.40.59:032][279]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.15-13.40.59:032][279]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.15-13.40.59:032][279]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.15-13.40.59:032][279]AssetCheck: /Game/MainMap Validating asset
+[2024.12.15-13.41.12:277][652]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.15-13.41.12:332][652]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMap" FILE="E:/Documents/Unreal Projects/Warehouse_Wreckage_UnrealEngine/Project/Content/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.12.15-13.41.14:485][652]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.12.15-13.41.14:531][652]LogSavePackage: Moving output files for package: /Game/MainMap
+[2024.12.15-13.41.14:531][652]LogSavePackage: Moving 'E:/Documents/Unreal Projects/Warehouse_Wreckage_UnrealEngine/Project/Saved/MainMapE74C0D5F4A01D6AF3051C7976CEF700E.tmp' to 'E:/Documents/Unreal Projects/Warehouse_Wreckage_UnrealEngine/Project/Content/MainMap.umap'
+[2024.12.15-13.41.14:536][652]LogFileHelpers: Saving map 'MainMap' took 2.204
+[2024.12.15-13.41.14:541][652]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.26 sec (total: 10.0 sec)
+[2024.12.15-13.41.14:582][652]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.15-13.41.14:582][652]LogContentValidation: Enabled validators:
+[2024.12.15-13.41.14:582][652]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.15-13.41.14:582][652]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.15-13.41.14:582][652]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.15-13.41.14:582][652]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.15-13.41.14:582][652]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.15-13.41.14:582][652]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.15-13.41.14:582][652]AssetCheck: /Game/MainMap Validating asset
+[2024.12.15-13.41.15:017][697]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.12.15-13.41.16:815][896]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2853.361328
+[2024.12.15-13.41.17:047][922]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.15-13.41.17:676][922]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.15-13.41.17:703][922]LogPlayLevel: Display: Creating online subsystem for client :Context_18
+[2024.12.15-13.41.17:706][922]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2024.12.15-13.41.17:731][923]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMap
+[2024.12.15-13.41.17:748][923]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016975s)
+[2024.12.15-13.41.17:748][923]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMap.MainMap to /Game/UEDPIE_0_MainMap.MainMap (0.017013s)
+[2024.12.15-13.41.17:764][923]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.12.15-13.41.17:766][923]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMap
+[2024.12.15-13.41.17:768][923]LogPlayLevel: PIE: World Init took: (0.001281s)
+[2024.12.15-13.41.17:768][923]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2024.12.15-13.41.17:768][923]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.15-13.41.17:768][923]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.15-13.41.17:768][923]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.15-13.41.17:768][923]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.15-13.41.17:768][923]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.15-13.41.17:768][923]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.15-13.41.17:768][923]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.15-13.41.17:768][923]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.15-13.41.17:768][923]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.15-13.41.17:768][923]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.15-13.41.17:768][923]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.15-13.41.17:771][923]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.15-13.41.17:788][923]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2024.12.15-13.41.17:789][923]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.15-13.41.17:789][923]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.15-13.41.17:789][923]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.15-13.41.17:789][923]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2024.12.15-13.41.17:789][923]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2024.12.15-13.41.17:791][923]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2024.12.15-13.41.17:791][923]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2024.12.15-13.41.17:791][923]LogInit: FAudioDevice initialized with ID 15.
+[2024.12.15-13.41.17:791][923]LogAudio: Display: Audio Device (ID: 15) registered with world 'MainMap'.
+[2024.12.15-13.41.17:791][923]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2024.12.15-13.41.17:794][923]LogLoad: Game class is 'GameModeBase'
+[2024.12.15-13.41.17:801][923]LogWorld: Bringing World /Game/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2024.12.15-18.41.17
+[2024.12.15-13.41.17:801][923]LogWorld: Bringing up level for play took: 0.007076
+[2024.12.15-13.41.17:803][923]LogBlueprintUserMessages: [MainMap_C_16] 20
+[2024.12.15-13.41.17:803][923]PIE: Server logged in
+[2024.12.15-13.41.17:804][923]PIE: Play in editor total start time 0.128 seconds.
+[2024.12.15-13.41.17:823][923]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.15-13.41.17:823][923]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2854.277100, Update Interval: 327.080292
+[2024.12.15-13.41.17:965][926]LogRenderer: Warning: [VSM] Non-Nanite Marking Job Queue overflow. Performance may be affected. This occurs when many non-nanite meshes cover a large area of the shadow map.
+[2024.12.15-13.41.20:414][207]LogBlueprintUserMessages: [MainMap_C_16] 19
+[2024.12.15-13.41.20:697][241]LogBlueprintUserMessages: [MainMap_C_16] 18
+[2024.12.15-13.41.20:914][267]LogBlueprintUserMessages: [MainMap_C_16] 17
+[2024.12.15-13.41.21:155][296]LogBlueprintUserMessages: [MainMap_C_16] 16
+[2024.12.15-13.41.21:331][317]LogBlueprintUserMessages: [MainMap_C_16] 15
+[2024.12.15-13.41.21:580][347]LogBlueprintUserMessages: [MainMap_C_16] 14
+[2024.12.15-13.41.21:773][370]LogBlueprintUserMessages: [MainMap_C_16] 13
+[2024.12.15-13.41.21:939][390]LogBlueprintUserMessages: [MainMap_C_16] 12
+[2024.12.15-13.41.22:123][412]LogBlueprintUserMessages: [MainMap_C_16] 11
+[2024.12.15-13.41.22:306][434]LogBlueprintUserMessages: [MainMap_C_16] 10
+[2024.12.15-13.41.22:488][456]LogBlueprintUserMessages: [MainMap_C_16] 9
+[2024.12.15-13.41.22:681][479]LogBlueprintUserMessages: [MainMap_C_16] 8
+[2024.12.15-13.41.22:856][500]LogBlueprintUserMessages: [MainMap_C_16] 7
+[2024.12.15-13.41.23:056][524]LogBlueprintUserMessages: [MainMap_C_16] 6
+[2024.12.15-13.41.23:248][547]LogBlueprintUserMessages: [MainMap_C_16] 5
+[2024.12.15-13.41.23:448][571]LogBlueprintUserMessages: [MainMap_C_16] 4
+[2024.12.15-13.41.23:648][595]LogBlueprintUserMessages: [MainMap_C_16] 3
+[2024.12.15-13.41.23:848][619]LogBlueprintUserMessages: [MainMap_C_16] 2
+[2024.12.15-13.41.24:033][641]LogBlueprintUserMessages: [MainMap_C_16] 1
+[2024.12.15-13.41.24:216][663]LogBlueprintUserMessages: [MainMap_C_16] 0
+[2024.12.15-13.41.24:408][685]LogBlueprintUserMessages: Out of AMMO!
+[2024.12.15-13.41.24:598][708]LogBlueprintUserMessages: Out of AMMO!
+[2024.12.15-13.41.24:807][733]LogBlueprintUserMessages: Out of AMMO!
+[2024.12.15-13.41.25:023][759]LogBlueprintUserMessages: Out of AMMO!
+[2024.12.15-13.41.25:223][783]LogBlueprintUserMessages: Out of AMMO!
+[2024.12.15-13.41.25:441][809]LogBlueprintUserMessages: Out of AMMO!
+[2024.12.15-13.41.25:641][833]LogBlueprintUserMessages: Out of AMMO!
+[2024.12.15-13.41.25:832][856]LogBlueprintUserMessages: Out of AMMO!
+[2024.12.15-13.41.26:040][881]LogBlueprintUserMessages: Out of AMMO!
+[2024.12.15-13.41.26:241][905]LogBlueprintUserMessages: Out of AMMO!
+[2024.12.15-13.41.26:441][929]LogBlueprintUserMessages: Out of AMMO!
+[2024.12.15-13.41.26:641][953]LogBlueprintUserMessages: Out of AMMO!
+[2024.12.15-13.41.26:849][978]LogBlueprintUserMessages: Out of AMMO!
+[2024.12.15-13.41.27:083][  6]LogBlueprintUserMessages: Out of AMMO!
+[2024.12.15-13.41.27:484][ 54]LogBlueprintUserMessages: Out of AMMO!
+[2024.12.15-13.41.27:693][ 79]LogBlueprintUserMessages: Out of AMMO!
+[2024.12.15-13.41.27:900][104]LogBlueprintUserMessages: Out of AMMO!
+[2024.12.15-13.41.28:101][128]LogBlueprintUserMessages: Out of AMMO!
+[2024.12.15-13.41.28:733][200]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.15-13.41.28:733][200]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMap
+[2024.12.15-13.41.28:733][200]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.15-13.41.28:736][200]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.15-13.41.28:739][200]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.15-13.41.28:744][200]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.15-13.41.28:762][200]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.15-13.41.28:762][200]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2024.12.15-13.41.28:763][200]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.12.15-13.41.28:764][200]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.12.15-13.41.28:771][200]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.12.15-13.41.30:689][201]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2024.12.15-13.42.16:839][678]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.15-13.42.16:899][678]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMap" FILE="E:/Documents/Unreal Projects/Warehouse_Wreckage_UnrealEngine/Project/Content/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.12.15-13.42.16:929][678]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.12.15-13.42.16:973][678]LogSavePackage: Moving output files for package: /Game/MainMap
+[2024.12.15-13.42.16:973][678]LogSavePackage: Moving 'E:/Documents/Unreal Projects/Warehouse_Wreckage_UnrealEngine/Project/Saved/MainMap6028BB7B4CCC4DEF1E3D7D916BCF41F1.tmp' to 'E:/Documents/Unreal Projects/Warehouse_Wreckage_UnrealEngine/Project/Content/MainMap.umap'
+[2024.12.15-13.42.16:979][678]LogFileHelpers: Saving map 'MainMap' took 0.080
+[2024.12.15-13.42.16:985][678]LogFileHelpers: InternalPromptForCheckoutAndSave took 146.942 ms (total: 10.1 sec)
+[2024.12.15-13.42.17:049][678]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.15-13.42.17:049][678]LogContentValidation: Enabled validators:
+[2024.12.15-13.42.17:049][678]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.15-13.42.17:049][678]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.15-13.42.17:049][678]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.15-13.42.17:049][678]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.15-13.42.17:049][678]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.15-13.42.17:049][678]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.15-13.42.17:049][678]AssetCheck: /Game/MainMap Validating asset
+[2024.12.15-13.42.27:252][865]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.15-13.42.27:622][865]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.15-13.42.27:653][865]LogPlayLevel: Display: Creating online subsystem for client :Context_19
+[2024.12.15-13.42.27:655][865]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2024.12.15-13.42.27:668][866]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMap
+[2024.12.15-13.42.27:685][866]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017126s)
+[2024.12.15-13.42.27:685][866]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMap.MainMap to /Game/UEDPIE_0_MainMap.MainMap (0.017166s)
+[2024.12.15-13.42.27:700][866]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.12.15-13.42.27:701][866]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMap
+[2024.12.15-13.42.27:703][866]LogPlayLevel: PIE: World Init took: (0.001358s)
+[2024.12.15-13.42.27:704][866]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2024.12.15-13.42.27:704][866]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.15-13.42.27:704][866]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.15-13.42.27:704][866]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.15-13.42.27:704][866]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.15-13.42.27:704][866]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.15-13.42.27:704][866]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.15-13.42.27:704][866]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.15-13.42.27:704][866]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.15-13.42.27:704][866]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.15-13.42.27:704][866]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.15-13.42.27:704][866]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.15-13.42.27:706][866]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.15-13.42.27:723][866]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2024.12.15-13.42.27:724][866]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.15-13.42.27:724][866]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.15-13.42.27:724][866]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.15-13.42.27:724][866]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2024.12.15-13.42.27:724][866]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2024.12.15-13.42.27:726][866]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2024.12.15-13.42.27:726][866]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2024.12.15-13.42.27:726][866]LogInit: FAudioDevice initialized with ID 16.
+[2024.12.15-13.42.27:726][866]LogAudio: Display: Audio Device (ID: 16) registered with world 'MainMap'.
+[2024.12.15-13.42.27:726][866]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2024.12.15-13.42.27:729][866]LogLoad: Game class is 'GameModeBase'
+[2024.12.15-13.42.27:736][866]LogWorld: Bringing World /Game/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2024.12.15-18.42.27
+[2024.12.15-13.42.27:736][866]LogWorld: Bringing up level for play took: 0.006980
+[2024.12.15-13.42.27:738][866]LogBlueprintUserMessages: [MainMap_C_16] 20
+[2024.12.15-13.42.27:738][866]PIE: Server logged in
+[2024.12.15-13.42.27:739][866]PIE: Play in editor total start time 0.116 seconds.
+[2024.12.15-13.42.27:899][869]LogRenderer: Warning: [VSM] Non-Nanite Marking Job Queue overflow. Performance may be affected. This occurs when many non-nanite meshes cover a large area of the shadow map.
+[2024.12.15-13.42.28:728][966]LogBlueprintUserMessages: [MainMap_C_16] 19
+[2024.12.15-13.42.29:028][  2]LogBlueprintUserMessages: [MainMap_C_16] 18
+[2024.12.15-13.42.29:320][ 37]LogBlueprintUserMessages: [MainMap_C_16] 17
+[2024.12.15-13.42.29:620][ 73]LogBlueprintUserMessages: [MainMap_C_16] 16
+[2024.12.15-13.42.29:920][109]LogBlueprintUserMessages: [MainMap_C_16] 15
+[2024.12.15-13.42.30:186][141]LogBlueprintUserMessages: [MainMap_C_16] 14
+[2024.12.15-13.42.30:462][174]LogBlueprintUserMessages: [MainMap_C_16] 13
+[2024.12.15-13.42.30:703][203]LogBlueprintUserMessages: [MainMap_C_16] 12
+[2024.12.15-13.42.30:970][235]LogBlueprintUserMessages: [MainMap_C_16] 11
+[2024.12.15-13.42.31:212][264]LogBlueprintUserMessages: [MainMap_C_16] 10
+[2024.12.15-13.42.31:479][296]LogBlueprintUserMessages: [MainMap_C_16] 9
+[2024.12.15-13.42.31:686][321]LogBlueprintUserMessages: [MainMap_C_16] 8
+[2024.12.15-13.42.31:953][353]LogBlueprintUserMessages: [MainMap_C_16] 7
+[2024.12.15-13.42.32:187][381]LogBlueprintUserMessages: [MainMap_C_16] 6
+[2024.12.15-13.42.32:454][413]LogBlueprintUserMessages: [MainMap_C_16] 5
+[2024.12.15-13.42.32:711][444]LogBlueprintUserMessages: [MainMap_C_16] 4
+[2024.12.15-13.42.32:961][474]LogBlueprintUserMessages: [MainMap_C_16] 3
+[2024.12.15-13.42.33:212][504]LogBlueprintUserMessages: [MainMap_C_16] 2
+[2024.12.15-13.42.33:461][534]LogBlueprintUserMessages: [MainMap_C_16] 1
+[2024.12.15-13.42.33:870][583]LogBlueprintUserMessages: [MainMap_C_16] 0
+[2024.12.15-13.42.35:319][757]LogBlueprintUserMessages: Out of AMMO!
+[2024.12.15-13.42.35:844][820]LogBlueprintUserMessages: Out of AMMO!
+[2024.12.15-13.42.36:144][856]LogBlueprintUserMessages: Out of AMMO!
+[2024.12.15-13.42.36:445][892]LogBlueprintUserMessages: Out of AMMO!
+[2024.12.15-13.42.36:728][926]LogBlueprintUserMessages: Out of AMMO!
+[2024.12.15-13.42.37:011][960]LogBlueprintUserMessages: Out of AMMO!
+[2024.12.15-13.42.37:286][993]LogBlueprintUserMessages: Out of AMMO!
+[2024.12.15-13.42.37:553][ 25]LogBlueprintUserMessages: Out of AMMO!
+[2024.12.15-13.42.37:845][ 60]LogBlueprintUserMessages: Out of AMMO!
+[2024.12.15-13.42.38:483][131]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.15-13.42.38:483][131]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMap
+[2024.12.15-13.42.38:483][131]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.15-13.42.38:486][131]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.15-13.42.38:489][131]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.15-13.42.38:494][131]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.15-13.42.38:511][131]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.15-13.42.38:511][131]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2024.12.15-13.42.38:511][131]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.12.15-13.42.38:513][131]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.12.15-13.42.38:517][131]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.15-13.42.38:521][131]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.12.15-13.42.38:556][132]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2024.12.15-13.43.16:205][469]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.15-13.43.16:267][469]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMap" FILE="E:/Documents/Unreal Projects/Warehouse_Wreckage_UnrealEngine/Project/Content/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.12.15-13.43.16:299][469]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.12.15-13.43.16:344][469]LogSavePackage: Moving output files for package: /Game/MainMap
+[2024.12.15-13.43.16:345][469]LogSavePackage: Moving 'E:/Documents/Unreal Projects/Warehouse_Wreckage_UnrealEngine/Project/Saved/MainMap95370A9F4AB080F851977BB0F96B847C.tmp' to 'E:/Documents/Unreal Projects/Warehouse_Wreckage_UnrealEngine/Project/Content/MainMap.umap'
+[2024.12.15-13.43.16:350][469]LogFileHelpers: Saving map 'MainMap' took 0.084
+[2024.12.15-13.43.16:356][469]LogFileHelpers: InternalPromptForCheckoutAndSave took 151.225 ms (total: 10.3 sec)
+[2024.12.15-13.43.16:416][469]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.15-13.43.16:416][469]LogContentValidation: Enabled validators:
+[2024.12.15-13.43.16:416][469]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.15-13.43.16:416][469]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.15-13.43.16:416][469]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.15-13.43.16:416][469]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.15-13.43.16:416][469]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.15-13.43.16:416][469]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.15-13.43.16:416][469]AssetCheck: /Game/MainMap Validating asset
+[2024.12.15-13.44.24:972][619]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.15-13.44.25:020][619]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMap" FILE="E:/Documents/Unreal Projects/Warehouse_Wreckage_UnrealEngine/Project/Content/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.12.15-13.44.25:050][619]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.12.15-13.44.25:094][619]LogSavePackage: Moving output files for package: /Game/MainMap
+[2024.12.15-13.44.25:094][619]LogSavePackage: Moving 'E:/Documents/Unreal Projects/Warehouse_Wreckage_UnrealEngine/Project/Saved/MainMap6B23CE6848B6FE1ED14330981009BFFC.tmp' to 'E:/Documents/Unreal Projects/Warehouse_Wreckage_UnrealEngine/Project/Content/MainMap.umap'
+[2024.12.15-13.44.25:100][619]LogFileHelpers: Saving map 'MainMap' took 0.081
+[2024.12.15-13.44.25:106][619]LogFileHelpers: InternalPromptForCheckoutAndSave took 133.204 ms (total: 10.4 sec)
+[2024.12.15-13.44.25:166][619]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.15-13.44.25:166][619]LogContentValidation: Enabled validators:
+[2024.12.15-13.44.25:166][619]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.15-13.44.25:166][619]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.15-13.44.25:166][619]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.15-13.44.25:166][619]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.15-13.44.25:166][619]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.15-13.44.25:166][619]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.15-13.44.25:166][619]AssetCheck: /Game/MainMap Validating asset
+[2024.12.15-13.44.36:581][888]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.15-13.44.36:634][888]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMap" FILE="E:/Documents/Unreal Projects/Warehouse_Wreckage_UnrealEngine/Project/Content/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.12.15-13.44.36:931][888]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.12.15-13.44.36:974][888]LogSavePackage: Moving output files for package: /Game/MainMap
+[2024.12.15-13.44.36:975][888]LogSavePackage: Moving 'E:/Documents/Unreal Projects/Warehouse_Wreckage_UnrealEngine/Project/Saved/MainMap3DE584BE4E50190BC77E2087467FFD14.tmp' to 'E:/Documents/Unreal Projects/Warehouse_Wreckage_UnrealEngine/Project/Content/MainMap.umap'
+[2024.12.15-13.44.36:980][888]LogFileHelpers: Saving map 'MainMap' took 0.347
+[2024.12.15-13.44.36:986][888]LogFileHelpers: InternalPromptForCheckoutAndSave took 404.822 ms (total: 10.8 sec)
+[2024.12.15-13.44.37:048][888]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.15-13.44.37:048][888]LogContentValidation: Enabled validators:
+[2024.12.15-13.44.37:048][888]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.15-13.44.37:048][888]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.15-13.44.37:048][888]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.15-13.44.37:048][888]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.15-13.44.37:048][888]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.15-13.44.37:048][888]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.15-13.44.37:049][888]AssetCheck: /Game/MainMap Validating asset
+[2024.12.15-13.44.39:491][164]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.15-13.44.40:078][164]LogPlayLevel: [PlayLevel] Compiling MainMap before play...
+[2024.12.15-13.44.40:125][164]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.12.15-13.44.40:128][164]LogPlayLevel: PlayLevel: Blueprint regeneration took 49 ms (1 blueprints)
+[2024.12.15-13.44.40:153][164]LogPlayLevel: Display: Creating online subsystem for client :Context_20
+[2024.12.15-13.44.40:156][164]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2024.12.15-13.44.40:182][165]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMap
+[2024.12.15-13.44.40:199][165]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016746s)
+[2024.12.15-13.44.40:199][165]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMap.MainMap to /Game/UEDPIE_0_MainMap.MainMap (0.016784s)
+[2024.12.15-13.44.40:217][165]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.12.15-13.44.40:218][165]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMap
+[2024.12.15-13.44.40:219][165]LogPlayLevel: PIE: World Init took: (0.001298s)
+[2024.12.15-13.44.40:220][165]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2024.12.15-13.44.40:220][165]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.15-13.44.40:220][165]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.15-13.44.40:220][165]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.15-13.44.40:220][165]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.15-13.44.40:220][165]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.15-13.44.40:220][165]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.15-13.44.40:220][165]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.15-13.44.40:220][165]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.15-13.44.40:220][165]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.15-13.44.40:220][165]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.15-13.44.40:220][165]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.15-13.44.40:223][165]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.15-13.44.40:241][165]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2024.12.15-13.44.40:241][165]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.15-13.44.40:241][165]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.15-13.44.40:241][165]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.15-13.44.40:243][165]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2024.12.15-13.44.40:243][165]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2024.12.15-13.44.40:243][165]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2024.12.15-13.44.40:243][165]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2024.12.15-13.44.40:243][165]LogInit: FAudioDevice initialized with ID 17.
+[2024.12.15-13.44.40:243][165]LogAudio: Display: Audio Device (ID: 17) registered with world 'MainMap'.
+[2024.12.15-13.44.40:243][165]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2024.12.15-13.44.40:246][165]LogLoad: Game class is 'GameModeBase'
+[2024.12.15-13.44.40:253][165]LogWorld: Bringing World /Game/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2024.12.15-18.44.40
+[2024.12.15-13.44.40:253][165]LogWorld: Bringing up level for play took: 0.007073
+[2024.12.15-13.44.40:255][165]LogBlueprintUserMessages: [MainMap_C_17] 20
+[2024.12.15-13.44.40:256][165]PIE: Server logged in
+[2024.12.15-13.44.40:257][165]PIE: Play in editor total start time 0.179 seconds.
+[2024.12.15-13.44.40:419][168]LogRenderer: Warning: [VSM] Non-Nanite Marking Job Queue overflow. Performance may be affected. This occurs when many non-nanite meshes cover a large area of the shadow map.
+[2024.12.15-13.44.41:202][261]LogBlueprintUserMessages: [MainMap_C_17] 19
+[2024.12.15-13.44.41:443][290]LogBlueprintUserMessages: [MainMap_C_17] 18
+[2024.12.15-13.44.41:602][309]LogBlueprintUserMessages: [MainMap_C_17] 17
+[2024.12.15-13.44.41:785][331]LogBlueprintUserMessages: [MainMap_C_17] 16
+[2024.12.15-13.44.41:943][350]LogBlueprintUserMessages: [MainMap_C_17] 15
+[2024.12.15-13.44.42:110][370]LogBlueprintUserMessages: [MainMap_C_17] 14
+[2024.12.15-13.44.42:268][389]LogBlueprintUserMessages: [MainMap_C_17] 13
+[2024.12.15-13.44.42:452][411]LogBlueprintUserMessages: [MainMap_C_17] 12
+[2024.12.15-13.44.42:593][428]LogBlueprintUserMessages: [MainMap_C_17] 11
+[2024.12.15-13.44.42:802][453]LogBlueprintUserMessages: [MainMap_C_17] 10
+[2024.12.15-13.44.42:978][474]LogBlueprintUserMessages: [MainMap_C_17] 9
+[2024.12.15-13.44.43:135][493]LogBlueprintUserMessages: [MainMap_C_17] 8
+[2024.12.15-13.44.43:303][513]LogBlueprintUserMessages: [MainMap_C_17] 7
+[2024.12.15-13.44.43:469][533]LogBlueprintUserMessages: [MainMap_C_17] 6
+[2024.12.15-13.44.43:645][554]LogBlueprintUserMessages: [MainMap_C_17] 5
+[2024.12.15-13.44.43:828][576]LogBlueprintUserMessages: [MainMap_C_17] 4
+[2024.12.15-13.44.44:004][597]LogBlueprintUserMessages: [MainMap_C_17] 3
+[2024.12.15-13.44.44:180][618]LogBlueprintUserMessages: [MainMap_C_17] 2
+[2024.12.15-13.44.44:364][640]LogBlueprintUserMessages: [MainMap_C_17] 1
+[2024.12.15-13.44.44:531][660]LogBlueprintUserMessages: [MainMap_C_17] 0
+[2024.12.15-13.44.44:706][681]LogBlueprintUserMessages: [MainMap_C_17] OUT OF AMMO!
+[2024.12.15-13.44.44:882][702]LogBlueprintUserMessages: [MainMap_C_17] OUT OF AMMO!
+[2024.12.15-13.44.45:065][724]LogBlueprintUserMessages: [MainMap_C_17] OUT OF AMMO!
+[2024.12.15-13.44.45:248][746]LogBlueprintUserMessages: [MainMap_C_17] OUT OF AMMO!
+[2024.12.15-13.44.45:408][765]LogBlueprintUserMessages: [MainMap_C_17] OUT OF AMMO!
+[2024.12.15-13.44.46:323][869]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.15-13.44.46:323][869]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMap
+[2024.12.15-13.44.46:323][869]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.15-13.44.46:325][869]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.15-13.44.46:328][869]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.15-13.44.46:333][869]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.15-13.44.46:350][869]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.15-13.44.46:351][869]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2024.12.15-13.44.46:351][869]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2024.12.15-13.44.46:353][869]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2024.12.15-13.44.46:361][869]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.12.15-13.44.46:867][870]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2024.12.15-13.47.37:335][113]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3233.866211
+[2024.12.15-13.47.37:569][141]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.15-13.47.37:569][141]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3234.092773, Update Interval: 327.321991
+[2024.12.15-13.49.53:324][725]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.15-13.49.53:385][725]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMap" FILE="E:/Documents/Unreal Projects/Warehouse_Wreckage_UnrealEngine/Project/Content/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.12.15-13.49.53:419][725]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2024.12.15-13.49.53:465][725]LogSavePackage: Moving output files for package: /Game/MainMap
+[2024.12.15-13.49.53:465][725]LogSavePackage: Moving 'E:/Documents/Unreal Projects/Warehouse_Wreckage_UnrealEngine/Project/Saved/MainMap534B56B149BB6EE1FB77CDA275BE0CE4.tmp' to 'E:/Documents/Unreal Projects/Warehouse_Wreckage_UnrealEngine/Project/Content/MainMap.umap'
+[2024.12.15-13.49.53:471][725]LogFileHelpers: Saving map 'MainMap' took 0.086
+[2024.12.15-13.49.53:477][725]LogFileHelpers: InternalPromptForCheckoutAndSave took 153.181 ms (total: 11.0 sec)
+[2024.12.15-13.49.53:534][725]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.15-13.49.53:534][725]LogContentValidation: Enabled validators:
+[2024.12.15-13.49.53:534][725]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.15-13.49.53:534][725]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.15-13.49.53:534][725]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.15-13.49.53:534][725]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.15-13.49.53:534][725]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.15-13.49.53:534][725]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.15-13.49.53:534][725]AssetCheck: /Game/MainMap Validating asset
+[2024.12.15-13.53.49:068][ 75]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3605.588623
+[2024.12.15-13.53.50:068][ 78]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.15-13.53.50:068][ 78]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3606.255615, Update Interval: 333.229156
+[2024.12.15-13.55.00:453][288]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.15-13.55.00:502][288]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMap" FILE="E:/Documents/Unreal Projects/Warehouse_Wreckage_UnrealEngine/Project/Content/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.12.15-13.55.00:533][288]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.12.15-13.55.00:580][288]LogSavePackage: Moving output files for package: /Game/MainMap
+[2024.12.15-13.55.00:580][288]LogSavePackage: Moving 'E:/Documents/Unreal Projects/Warehouse_Wreckage_UnrealEngine/Project/Saved/MainMap99E40B9042AB80B9CD213AB0B29CE5E3.tmp' to 'E:/Documents/Unreal Projects/Warehouse_Wreckage_UnrealEngine/Project/Content/MainMap.umap'
+[2024.12.15-13.55.00:586][288]LogFileHelpers: Saving map 'MainMap' took 0.085
+[2024.12.15-13.55.00:593][288]LogFileHelpers: InternalPromptForCheckoutAndSave took 138.902 ms (total: 11.1 sec)
+[2024.12.15-13.55.00:651][288]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.15-13.55.00:651][288]LogContentValidation: Enabled validators:
+[2024.12.15-13.55.00:651][288]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.15-13.55.00:651][288]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.15-13.55.00:651][288]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.15-13.55.00:651][288]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.15-13.55.00:651][288]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.15-13.55.00:651][288]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.15-13.55.00:652][288]AssetCheck: /Game/MainMap Validating asset
+[2024.12.15-13.55.35:113][423]LogDerivedDataCache: C:/Users/muham/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.12.15-13.56.52:279][474]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.15-13.56.52:319][474]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMap" FILE="E:/Documents/Unreal Projects/Warehouse_Wreckage_UnrealEngine/Project/Content/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.12.15-13.56.52:351][474]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.12.15-13.56.52:398][474]LogSavePackage: Moving output files for package: /Game/MainMap
+[2024.12.15-13.56.52:398][474]LogSavePackage: Moving 'E:/Documents/Unreal Projects/Warehouse_Wreckage_UnrealEngine/Project/Saved/MainMapA421F97C4720E9F4B2E9A9918047D90C.tmp' to 'E:/Documents/Unreal Projects/Warehouse_Wreckage_UnrealEngine/Project/Content/MainMap.umap'
+[2024.12.15-13.56.52:405][474]LogFileHelpers: Saving map 'MainMap' took 0.086
+[2024.12.15-13.56.52:411][474]LogFileHelpers: InternalPromptForCheckoutAndSave took 131.354 ms (total: 11.3 sec)
+[2024.12.15-13.56.52:468][474]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.15-13.56.52:468][474]LogContentValidation: Enabled validators:
+[2024.12.15-13.56.52:468][474]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.15-13.56.52:468][474]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.15-13.56.52:468][474]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.15-13.56.52:468][474]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.15-13.56.52:468][474]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.15-13.56.52:468][474]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.15-13.56.52:468][474]AssetCheck: /Game/MainMap Validating asset
+[2024.12.15-13.57.20:580][579]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.15-13.57.20:637][579]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMap" FILE="E:/Documents/Unreal Projects/Warehouse_Wreckage_UnrealEngine/Project/Content/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.12.15-13.57.20:667][579]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.12.15-13.57.20:714][579]LogSavePackage: Moving output files for package: /Game/MainMap
+[2024.12.15-13.57.20:714][579]LogSavePackage: Moving 'E:/Documents/Unreal Projects/Warehouse_Wreckage_UnrealEngine/Project/Saved/MainMap09BDD36849D37ADFA2A873826A4B92CC.tmp' to 'E:/Documents/Unreal Projects/Warehouse_Wreckage_UnrealEngine/Project/Content/MainMap.umap'
+[2024.12.15-13.57.20:720][579]LogFileHelpers: Saving map 'MainMap' took 0.084
+[2024.12.15-13.57.20:728][579]LogFileHelpers: InternalPromptForCheckoutAndSave took 147.981 ms (total: 11.4 sec)
+[2024.12.15-13.57.20:786][579]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.15-13.57.20:786][579]LogContentValidation: Enabled validators:
+[2024.12.15-13.57.20:786][579]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.15-13.57.20:786][579]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.15-13.57.20:786][579]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.15-13.57.20:786][579]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.15-13.57.20:786][579]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.15-13.57.20:786][579]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.15-13.57.20:786][579]AssetCheck: /Game/MainMap Validating asset
+[2024.12.15-13.57.39:580][779]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.15-13.57.39:621][779]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMap" FILE="E:/Documents/Unreal Projects/Warehouse_Wreckage_UnrealEngine/Project/Content/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.12.15-13.57.39:649][779]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.12.15-13.57.39:695][779]LogSavePackage: Moving output files for package: /Game/MainMap
+[2024.12.15-13.57.39:695][779]LogSavePackage: Moving 'E:/Documents/Unreal Projects/Warehouse_Wreckage_UnrealEngine/Project/Saved/MainMap124527BD445496D69A0815A72A4EC328.tmp' to 'E:/Documents/Unreal Projects/Warehouse_Wreckage_UnrealEngine/Project/Content/MainMap.umap'
+[2024.12.15-13.57.39:701][779]LogFileHelpers: Saving map 'MainMap' took 0.080
+[2024.12.15-13.57.39:706][779]LogFileHelpers: InternalPromptForCheckoutAndSave took 126.689 ms (total: 11.5 sec)
+[2024.12.15-13.57.39:772][779]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.15-13.57.39:772][779]LogContentValidation: Enabled validators:
+[2024.12.15-13.57.39:772][779]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.15-13.57.39:772][779]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.15-13.57.39:772][779]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.15-13.57.39:772][779]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.15-13.57.39:772][779]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.15-13.57.39:772][779]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.15-13.57.39:773][779]AssetCheck: /Game/MainMap Validating asset
+[2024.12.15-13.57.59:059][366]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.15-13.57.59:067][366]LogPlayLevel: [PlayLevel] Compiling MainMap before play...
+[2024.12.15-13.57.59:116][366]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.12.15-13.57.59:118][366]LogPlayLevel: PlayLevel: Blueprint regeneration took 51 ms (1 blueprints)
+[2024.12.15-13.57.59:153][366]LogPlayLevel: Display: Creating online subsystem for client :Context_21
+[2024.12.15-13.57.59:155][366]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2024.12.15-13.57.59:172][367]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMap
+[2024.12.15-13.57.59:190][367]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017158s)
+[2024.12.15-13.57.59:190][367]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMap.MainMap to /Game/UEDPIE_0_MainMap.MainMap (0.017197s)
+[2024.12.15-13.57.59:208][367]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.12.15-13.57.59:209][367]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMap
+[2024.12.15-13.57.59:211][367]LogPlayLevel: PIE: World Init took: (0.001476s)
+[2024.12.15-13.57.59:211][367]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2024.12.15-13.57.59:211][367]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.15-13.57.59:211][367]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.15-13.57.59:211][367]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.15-13.57.59:211][367]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.15-13.57.59:211][367]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.15-13.57.59:211][367]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.15-13.57.59:211][367]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.15-13.57.59:211][367]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.15-13.57.59:211][367]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.15-13.57.59:211][367]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.15-13.57.59:211][367]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.15-13.57.59:213][367]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.15-13.57.59:231][367]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2024.12.15-13.57.59:231][367]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.15-13.57.59:231][367]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.15-13.57.59:231][367]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.15-13.57.59:233][367]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2024.12.15-13.57.59:233][367]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2024.12.15-13.57.59:234][367]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2024.12.15-13.57.59:234][367]LogInit: FAudioDevice initialized with ID 18.
+[2024.12.15-13.57.59:234][367]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2024.12.15-13.57.59:234][367]LogAudio: Display: Audio Device (ID: 18) registered with world 'MainMap'.
+[2024.12.15-13.57.59:234][367]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2024.12.15-13.57.59:237][367]LogLoad: Game class is 'GameModeBase'
+[2024.12.15-13.57.59:244][367]LogWorld: Bringing World /Game/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2024.12.15-18.57.59
+[2024.12.15-13.57.59:244][367]LogWorld: Bringing up level for play took: 0.007121
+[2024.12.15-13.57.59:245][367]LogBlueprintUserMessages: [MainMap_C_18] 20
+[2024.12.15-13.57.59:246][367]PIE: Server logged in
+[2024.12.15-13.57.59:247][367]PIE: Play in editor total start time 0.181 seconds.
+[2024.12.15-13.57.59:404][370]LogRenderer: Warning: [VSM] Non-Nanite Marking Job Queue overflow. Performance may be affected. This occurs when many non-nanite meshes cover a large area of the shadow map.
+[2024.12.15-13.58.00:743][527]LogBlueprintUserMessages: [MainMap_C_18] 19
+[2024.12.15-13.58.01:035][562]LogBlueprintUserMessages: [MainMap_C_18] 18
+[2024.12.15-13.58.01:243][587]LogBlueprintUserMessages: [MainMap_C_18] 17
+[2024.12.15-13.58.01:435][610]LogBlueprintUserMessages: [MainMap_C_18] 16
+[2024.12.15-13.58.01:618][632]LogBlueprintUserMessages: [MainMap_C_18] 15
+[2024.12.15-13.58.01:785][652]LogBlueprintUserMessages: [MainMap_C_18] 14
+[2024.12.15-13.58.01:959][673]LogBlueprintUserMessages: [MainMap_C_18] 13
+[2024.12.15-13.58.02:126][693]LogBlueprintUserMessages: [MainMap_C_18] 12
+[2024.12.15-13.58.02:293][713]LogBlueprintUserMessages: [MainMap_C_18] 11
+[2024.12.15-13.58.02:468][734]LogBlueprintUserMessages: [MainMap_C_18] 10
+[2024.12.15-13.58.02:661][757]LogBlueprintUserMessages: [MainMap_C_18] 9
+[2024.12.15-13.58.02:861][781]LogBlueprintUserMessages: [MainMap_C_18] 8
+[2024.12.15-13.58.03:069][806]LogBlueprintUserMessages: [MainMap_C_18] 7
+[2024.12.15-13.58.03:429][849]LogBlueprintUserMessages: [MainMap_C_18] 6
+[2024.12.15-13.58.03:621][872]LogBlueprintUserMessages: [MainMap_C_18] 5
+[2024.12.15-13.58.03:787][892]LogBlueprintUserMessages: [MainMap_C_18] 4
+[2024.12.15-13.58.03:930][909]LogBlueprintUserMessages: [MainMap_C_18] 3
+[2024.12.15-13.58.04:240][946]LogBlueprintUserMessages: [MainMap_C_18] 2
+[2024.12.15-13.58.04:406][966]LogBlueprintUserMessages: [MainMap_C_18] 1
+[2024.12.15-13.58.04:574][986]LogBlueprintUserMessages: [MainMap_C_18] 0
+[2024.12.15-13.58.04:731][  5]LogBlueprintUserMessages: [MainMap_C_18] OUT OF AMMO!
+[2024.12.15-13.58.04:914][ 27]LogBlueprintUserMessages: [MainMap_C_18] OUT OF AMMO!
+[2024.12.15-13.58.05:090][ 48]LogBlueprintUserMessages: [MainMap_C_18] OUT OF AMMO!
+[2024.12.15-13.58.05:273][ 70]LogBlueprintUserMessages: [MainMap_C_18] OUT OF AMMO!
+[2024.12.15-13.58.05:448][ 91]LogBlueprintUserMessages: [MainMap_C_18] OUT OF AMMO!
+[2024.12.15-13.58.05:623][112]LogBlueprintUserMessages: [MainMap_C_18] OUT OF AMMO!
+[2024.12.15-13.58.06:214][178]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.15-13.58.06:214][178]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMap
+[2024.12.15-13.58.06:214][178]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.15-13.58.06:217][178]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.15-13.58.06:220][178]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.15-13.58.06:224][178]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.15-13.58.06:242][178]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.15-13.58.06:243][178]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2024.12.15-13.58.06:243][178]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2024.12.15-13.58.06:244][178]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2024.12.15-13.58.06:251][178]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.12.15-13.58.06:286][179]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2024.12.15-13.59.06:933][797]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.15-13.59.06:989][797]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMap" FILE="E:/Documents/Unreal Projects/Warehouse_Wreckage_UnrealEngine/Project/Content/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.12.15-13.59.07:017][797]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.12.15-13.59.07:064][797]LogSavePackage: Moving output files for package: /Game/MainMap
+[2024.12.15-13.59.07:064][797]LogSavePackage: Moving 'E:/Documents/Unreal Projects/Warehouse_Wreckage_UnrealEngine/Project/Saved/MainMapBFC4B0D34302660C326D028168193A55.tmp' to 'E:/Documents/Unreal Projects/Warehouse_Wreckage_UnrealEngine/Project/Content/MainMap.umap'
+[2024.12.15-13.59.07:070][797]LogFileHelpers: Saving map 'MainMap' took 0.082
+[2024.12.15-13.59.07:076][797]LogFileHelpers: InternalPromptForCheckoutAndSave took 143.657 ms (total: 11.7 sec)
+[2024.12.15-13.59.07:136][797]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.15-13.59.07:136][797]LogContentValidation: Enabled validators:
+[2024.12.15-13.59.07:136][797]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.15-13.59.07:136][797]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.15-13.59.07:136][797]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.15-13.59.07:136][797]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.15-13.59.07:136][797]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.15-13.59.07:136][797]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.15-13.59.07:137][797]AssetCheck: /Game/MainMap Validating asset
