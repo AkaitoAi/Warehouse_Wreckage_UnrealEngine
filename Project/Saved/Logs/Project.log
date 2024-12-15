@@ -4985,3 +4985,187 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2024.12.15-15.04.51:981][604]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2024.12.15-15.04.51:981][604]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2024.12.15-15.04.51:981][604]AssetCheck: /Game/MainMap Validating asset
+[2024.12.15-15.05.31:021][721]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.15-15.05.31:025][721]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.15-15.05.31:026][721]LogPlayLevel: Display: Creating online subsystem for client :Context_36
+[2024.12.15-15.05.31:028][721]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2024.12.15-15.05.31:051][722]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMap
+[2024.12.15-15.05.31:069][722]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017059s)
+[2024.12.15-15.05.31:069][722]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMap.MainMap to /Game/UEDPIE_0_MainMap.MainMap (0.017096s)
+[2024.12.15-15.05.31:086][722]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.12.15-15.05.31:090][722]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMap
+[2024.12.15-15.05.31:091][722]LogPlayLevel: PIE: World Init took: (0.001333s)
+[2024.12.15-15.05.31:092][722]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2024.12.15-15.05.31:092][722]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.15-15.05.31:092][722]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.15-15.05.31:092][722]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.15-15.05.31:092][722]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.15-15.05.31:092][722]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.15-15.05.31:092][722]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.15-15.05.31:092][722]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.15-15.05.31:092][722]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.15-15.05.31:092][722]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.15-15.05.31:092][722]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.15-15.05.31:092][722]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.15-15.05.31:095][722]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.15-15.05.31:111][722]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2024.12.15-15.05.31:111][722]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.15-15.05.31:112][722]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.15-15.05.31:112][722]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.15-15.05.31:112][722]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=30
+[2024.12.15-15.05.31:112][722]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=30
+[2024.12.15-15.05.31:115][722]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=30
+[2024.12.15-15.05.31:115][722]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=30
+[2024.12.15-15.05.31:115][722]LogInit: FAudioDevice initialized with ID 30.
+[2024.12.15-15.05.31:115][722]LogAudio: Display: Audio Device (ID: 30) registered with world 'MainMap'.
+[2024.12.15-15.05.31:115][722]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 30
+[2024.12.15-15.05.31:117][722]LogLoad: Game class is 'GameModeBase'
+[2024.12.15-15.05.31:124][722]LogWorld: Bringing World /Game/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2024.12.15-20.05.31
+[2024.12.15-15.05.31:124][722]LogWorld: Bringing up level for play took: 0.007044
+[2024.12.15-15.05.31:125][722]LogBlueprintUserMessages: [MainMap_C_31] 20
+[2024.12.15-15.05.31:126][722]PIE: Server logged in
+[2024.12.15-15.05.31:127][722]PIE: Play in editor total start time 0.101 seconds.
+[2024.12.15-15.05.31:316][725]LogRenderer: Warning: [VSM] Non-Nanite Marking Job Queue overflow. Performance may be affected. This occurs when many non-nanite meshes cover a large area of the shadow map.
+[2024.12.15-15.05.34:795][138]LogBlueprintUserMessages: [BP_Projectile_C_0] BP_Projectile0
+[2024.12.15-15.05.34:795][138]LogBlueprintUserMessages: [MainMap_C_31] 19
+[2024.12.15-15.05.35:069][171]LogBlueprintUserMessages: [BP_Projectile_C_1] BP_Projectile1
+[2024.12.15-15.05.35:069][171]LogBlueprintUserMessages: [MainMap_C_31] 18
+[2024.12.15-15.05.35:287][197]LogBlueprintUserMessages: [BP_Projectile_C_2] BP_Projectile2
+[2024.12.15-15.05.35:287][197]LogBlueprintUserMessages: [MainMap_C_31] 17
+[2024.12.15-15.05.35:495][222]LogBlueprintUserMessages: [BP_Projectile_C_3] BP_Projectile3
+[2024.12.15-15.05.35:495][222]LogBlueprintUserMessages: [MainMap_C_31] 16
+[2024.12.15-15.05.35:752][253]LogBlueprintUserMessages: [BP_Projectile_C_4] BP_Projectile4
+[2024.12.15-15.05.35:752][253]LogBlueprintUserMessages: [MainMap_C_31] 15
+[2024.12.15-15.05.35:971][279]LogBlueprintUserMessages: [BP_Projectile_C_5] BP_Projectile5
+[2024.12.15-15.05.35:971][279]LogBlueprintUserMessages: [MainMap_C_31] 14
+[2024.12.15-15.05.36:223][309]LogBlueprintUserMessages: [BP_Projectile_C_6] BP_Projectile6
+[2024.12.15-15.05.36:223][309]LogBlueprintUserMessages: [MainMap_C_31] 13
+[2024.12.15-15.05.36:656][361]LogBlueprintUserMessages: [MainMap_C_31] 20
+[2024.12.15-15.05.37:947][514]LogBlueprintUserMessages: [BP_Projectile_C_7] BP_Projectile7
+[2024.12.15-15.05.37:947][514]LogBlueprintUserMessages: [MainMap_C_31] 19
+[2024.12.15-15.05.38:234][545]LogBlueprintUserMessages: [BP_Projectile_C_8] BP_Projectile8
+[2024.12.15-15.05.38:234][545]LogBlueprintUserMessages: [MainMap_C_31] 18
+[2024.12.15-15.05.38:618][587]LogBlueprintUserMessages: [BP_Projectile_C_9] BP_Projectile9
+[2024.12.15-15.05.38:618][587]LogBlueprintUserMessages: [MainMap_C_31] 17
+[2024.12.15-15.05.38:952][625]LogBlueprintUserMessages: [BP_Projectile_C_10] BP_Projectile10
+[2024.12.15-15.05.38:952][625]LogBlueprintUserMessages: [MainMap_C_31] 16
+[2024.12.15-15.05.39:170][650]LogBlueprintUserMessages: [BP_Projectile_C_11] BP_Projectile11
+[2024.12.15-15.05.39:170][650]LogBlueprintUserMessages: [MainMap_C_31] 15
+[2024.12.15-15.05.39:379][674]LogBlueprintUserMessages: [BP_Projectile_C_12] BP_Projectile12
+[2024.12.15-15.05.39:379][674]LogBlueprintUserMessages: [MainMap_C_31] 14
+[2024.12.15-15.05.40:542][807]LogBlueprintUserMessages: [MainMap_C_31] 20
+[2024.12.15-15.05.40:989][860]LogBlueprintUserMessages: [BP_Projectile_C_13] BP_Projectile13
+[2024.12.15-15.05.40:989][860]LogBlueprintUserMessages: [MainMap_C_31] 19
+[2024.12.15-15.05.41:239][890]LogBlueprintUserMessages: [BP_Projectile_C_14] BP_Projectile14
+[2024.12.15-15.05.41:239][890]LogBlueprintUserMessages: [MainMap_C_31] 18
+[2024.12.15-15.05.41:447][915]LogBlueprintUserMessages: [BP_Projectile_C_15] BP_Projectile15
+[2024.12.15-15.05.41:448][915]LogBlueprintUserMessages: [MainMap_C_31] 17
+[2024.12.15-15.05.41:663][941]LogBlueprintUserMessages: [BP_Projectile_C_16] BP_Projectile16
+[2024.12.15-15.05.41:663][941]LogBlueprintUserMessages: [MainMap_C_31] 16
+[2024.12.15-15.05.42:106][994]LogBlueprintUserMessages: [MainMap_C_31] 20
+[2024.12.15-15.05.42:476][ 38]LogBlueprintUserMessages: [BP_Projectile_C_17] BP_Projectile17
+[2024.12.15-15.05.42:476][ 38]LogBlueprintUserMessages: [MainMap_C_31] 19
+[2024.12.15-15.05.42:752][ 71]LogBlueprintUserMessages: [BP_Projectile_C_18] BP_Projectile18
+[2024.12.15-15.05.42:752][ 71]LogBlueprintUserMessages: [MainMap_C_31] 18
+[2024.12.15-15.05.42:944][ 94]LogBlueprintUserMessages: [BP_Projectile_C_19] BP_Projectile19
+[2024.12.15-15.05.42:944][ 94]LogBlueprintUserMessages: [MainMap_C_31] 17
+[2024.12.15-15.05.43:128][116]LogBlueprintUserMessages: [BP_Projectile_C_20] BP_Projectile20
+[2024.12.15-15.05.43:128][116]LogBlueprintUserMessages: [MainMap_C_31] 16
+[2024.12.15-15.05.43:336][141]LogBlueprintUserMessages: [BP_Projectile_C_21] BP_Projectile21
+[2024.12.15-15.05.43:336][141]LogBlueprintUserMessages: [MainMap_C_31] 15
+[2024.12.15-15.05.43:769][193]LogBlueprintUserMessages: [MainMap_C_31] 20
+[2024.12.15-15.05.44:687][303]LogBlueprintUserMessages: [BP_Projectile_C_22] BP_Projectile22
+[2024.12.15-15.05.44:687][303]LogBlueprintUserMessages: [MainMap_C_31] 19
+[2024.12.15-15.05.44:913][330]LogBlueprintUserMessages: [BP_Projectile_C_23] BP_Projectile23
+[2024.12.15-15.05.44:913][330]LogBlueprintUserMessages: [MainMap_C_31] 18
+[2024.12.15-15.05.45:165][360]LogBlueprintUserMessages: [BP_Projectile_C_24] BP_Projectile24
+[2024.12.15-15.05.45:165][360]LogBlueprintUserMessages: [MainMap_C_31] 17
+[2024.12.15-15.05.46:248][479]LogBlueprintUserMessages: [BP_Projectile_C_25] BP_Projectile25
+[2024.12.15-15.05.46:248][479]LogBlueprintUserMessages: [MainMap_C_31] 16
+[2024.12.15-15.05.46:513][506]LogBlueprintUserMessages: [BP_Projectile_C_26] BP_Projectile26
+[2024.12.15-15.05.46:513][506]LogBlueprintUserMessages: [MainMap_C_31] 15
+[2024.12.15-15.05.46:759][531]LogBlueprintUserMessages: [BP_Projectile_C_27] BP_Projectile27
+[2024.12.15-15.05.46:759][531]LogBlueprintUserMessages: [MainMap_C_31] 14
+[2024.12.15-15.05.49:694][535]LogBlueprintUserMessages: [BP_Projectile_C_28] BP_Projectile28
+[2024.12.15-15.05.49:694][535]LogBlueprintUserMessages: [MainMap_C_31] 13
+[2024.12.15-15.05.52:284][816]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.15-15.05.52:284][816]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMap
+[2024.12.15-15.05.52:284][816]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.15-15.05.52:287][816]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.15-15.05.52:290][816]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.15-15.05.52:295][816]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.15-15.05.52:310][816]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.15-15.05.52:310][816]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 30
+[2024.12.15-15.05.52:310][816]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2024.12.15-15.05.52:312][816]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2024.12.15-15.05.52:321][816]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.12.15-15.05.53:033][817]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2024.12.15-15.05.57:066][246]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.12.15-15.05.57:092][246]LogStall: Shutdown...
+[2024.12.15-15.05.57:092][246]LogStall: Shutdown complete.
+[2024.12.15-15.05.57:174][246]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.12.15-15.05.57:174][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.15-15.05.57:222][246]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.12.15-15.05.57:222][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.15-15.05.57:260][246]LogSlate: Window 'Project - Unreal Editor' being destroyed
+[2024.12.15-15.05.59:718][246]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.12.15-15.05.59:732][246]Cmd: QUIT_EDITOR
+[2024.12.15-15.05.59:732][247]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2024.12.15-15.05.59:735][247]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2024.12.15-15.05.59:735][247]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2024.12.15-15.05.59:735][247]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2024.12.15-15.05.59:751][247]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.15-15.05.59:751][247]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.15-15.05.59:761][247]LogStylusInput: Shutting down StylusInput subsystem.
+[2024.12.15-15.05.59:762][247]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2024.12.15-15.05.59:767][247]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.12.15-15.05.59:768][247]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.15-15.05.59:770][247]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2024.12.15-15.05.59:770][247]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.15-15.05.59:772][247]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.12.15-15.05.59:772][247]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.15-15.05.59:775][247]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.12.15-15.05.59:775][247]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.15-15.05.59:798][247]LogStudioTelemetry: Ended StudioTelemetry Session
+[2024.12.15-15.05.59:799][247]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2024.12.15-15.05.59:799][247]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2024.12.15-15.05.59:799][247]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2024.12.15-15.05.59:982][247]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2024.12.15-15.05.59:982][247]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2024.12.15-15.05.59:982][247]LogAudio: Display: Audio Device unregistered from world 'MainMap'.
+[2024.12.15-15.05.59:982][247]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2024.12.15-15.05.59:982][247]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.12.15-15.05.59:985][247]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.12.15-15.06.00:015][247]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2024.12.15-15.06.00:015][247]LogAudio: Display: Audio Device Manager Shutdown
+[2024.12.15-15.06.00:016][247]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
+[2024.12.15-15.06.00:046][247]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2024.12.15-15.06.00:046][247]LogExit: Preparing to exit.
+[2024.12.15-15.06.00:069][247]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.12.15-15.06.00:072][247]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.15-15.06.00:072][247]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.15-15.06.00:073][247]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.15-15.06.00:075][247]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.15-15.06.00:075][247]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.15-15.06.00:075][247]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.15-15.06.00:075][247]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.15-15.06.00:075][247]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.15-15.06.00:075][247]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.15-15.06.00:075][247]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.15-15.06.00:075][247]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.15-15.06.00:075][247]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.15-15.06.00:075][247]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.15-15.06.00:075][247]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.15-15.06.00:075][247]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.15-15.06.00:075][247]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.15-15.06.00:075][247]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.15-15.06.00:075][247]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.15-15.06.00:075][247]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.15-15.06.00:075][247]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.15-15.06.00:075][247]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.15-15.06.03:701][247]LogEditorDataStorage: Deinitializing
+[2024.12.15-15.06.04:111][247]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2024.12.15-15.06.04:362][247]LogExit: Editor shut down
+[2024.12.15-15.06.04:486][247]LogExit: Transaction tracking system shut down
+[2024.12.15-15.06.05:352][247]LogExit: Object subsystem successfully closed.
+[2024.12.15-15.06.05:380][247]LogShaderCompilers: Display: Shaders left to compile 0
